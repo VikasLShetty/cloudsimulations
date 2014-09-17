@@ -53,11 +53,9 @@ public class CloudSimExample1 {
 			int pesNumber = 2; // number of cpus
 			String vmm = "Xen"; // VMM name
 
-			
-
 			// create VM
-			Vm vm1 = new Vm(vmid1, brokerId, mips, pesNumber, ram, bw, size, vmm, new CloudletSchedulerTimeShared());
-			Vm vm2 = new Vm(vmid2, brokerId, mips, pesNumber, ram, bw, size, vmm, new CloudletSchedulerSpaceShared());		
+			Vm vm1 = new Vm(vmid1, brokerId, mips, pesNumber, ram, bw, size, vmm, new CloudletSchedulerTimeShared()); //This implements Time sharing
+			Vm vm2 = new Vm(vmid2, brokerId, mips, pesNumber, ram, bw, size, vmm, new CloudletSchedulerSpaceShared()); //This implements Space sharing		
 			
 			// add the VMs to the vmList
 			vmlist.add(vm1);
@@ -79,8 +77,13 @@ public class CloudSimExample1 {
 
 			Cloudlet cloudlet = new Cloudlet(i, length, pesNumber, fileSize, outputSize, utilizationModel, utilizationModel, utilizationModel);
 			cloudlet.setUserId(brokerId);
-			cloudlet.setVmId(vmid);
-
+			
+			if( i<4 )
+				cloudlet.setVmId(vmid1);
+				
+			else cloudlet.setVmId(vmid2);
+			
+			
 			// add the cloudlet to the list
 			cloudletList.add(cloudlet);
 			
@@ -89,6 +92,15 @@ public class CloudSimExample1 {
 			// submit cloudlet list to the broker
 			broker.submitCloudletList(cloudletList);
 
+			for( int i = 0; i < 8; i++ ) {
+				
+				if( i<4 ) 
+					broker.bindCloudletToVm(i,vmid1);
+					
+				else broker.bindCloudletToVm(i,vmid2);
+				
+			}
+		
 			// Sixth step: Starts the simulation
 			CloudSim.startSimulation();
 
