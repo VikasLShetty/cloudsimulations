@@ -23,7 +23,7 @@ import org.cloudbus.cloudsim.provisioners.BwProvisionerSimple;
 import org.cloudbus.cloudsim.provisioners.PeProvisionerSimple;
 import org.cloudbus.cloudsim.provisioners.RamProvisionerSimple;
 
-public class Problem3 {
+public class Problem4 {
 
 	/** The cloudlet list. */
 	private static List<Cloudlet> cloudletList;
