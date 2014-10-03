@@ -1,0 +1,1154 @@
+[VmScheduler.vmCreate] Allocation of VM #396 to Host #56 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #396 to Host #57 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #396 to Host #58 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #396 to Host #59 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #396 to Host #60 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #396 to Host #61 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #396 to Host #62 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #396 to Host #63 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #396 to Host #64 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #396 to Host #65 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #396 to Host #66 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #396 to Host #67 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #396 to Host #68 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #396 to Host #69 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #396 to Host #70 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #396 to Host #71 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #396 to Host #72 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #396 to Host #73 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #396 to Host #74 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #396 to Host #75 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #396 to Host #76 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #396 to Host #77 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #396 to Host #78 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #396 to Host #79 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #396 to Host #80 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #396 to Host #81 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #396 to Host #82 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #396 to Host #83 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #396 to Host #84 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #396 to Host #85 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #396 to Host #86 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #396 to Host #87 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #396 to Host #88 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #396 to Host #89 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #396 to Host #90 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #396 to Host #91 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #396 to Host #92 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #396 to Host #93 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #396 to Host #94 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #396 to Host #95 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #396 to Host #96 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #396 to Host #97 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #396 to Host #98 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #396 to Host #99 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #2 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #3 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #4 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #5 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #6 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #7 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #8 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #9 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #10 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #11 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #12 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #13 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #14 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #15 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #16 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #17 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #18 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #19 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #20 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #21 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #22 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #23 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #24 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #25 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #26 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #27 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #28 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #29 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #30 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #31 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #32 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #33 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #34 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #35 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #36 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #37 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #38 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #39 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #40 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #41 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #42 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #43 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #44 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #45 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #46 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #47 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #48 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #49 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #50 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #51 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #52 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #53 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #54 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #55 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #56 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #57 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #58 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #59 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #60 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #61 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #62 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #63 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #64 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #65 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #66 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #67 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #68 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #69 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #70 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #71 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #72 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #73 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #74 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #75 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #76 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #77 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #78 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #79 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #80 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #81 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #82 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #83 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #84 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #85 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #86 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #87 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #88 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #89 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #90 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #91 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #92 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #93 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #94 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #95 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #96 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #97 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #98 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #397 to Host #99 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #2 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #3 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #4 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #5 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #6 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #7 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #8 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #9 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #10 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #11 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #12 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #13 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #14 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #15 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #16 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #17 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #18 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #19 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #20 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #21 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #22 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #23 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #24 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #25 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #26 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #27 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #28 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #29 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #30 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #31 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #32 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #33 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #34 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #35 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #36 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #37 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #38 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #39 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #40 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #41 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #42 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #43 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #44 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #45 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #46 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #47 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #48 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #49 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #50 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #51 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #52 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #53 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #54 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #55 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #56 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #57 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #58 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #59 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #60 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #61 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #62 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #63 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #64 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #65 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #66 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #67 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #68 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #69 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #70 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #71 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #72 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #73 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #74 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #75 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #76 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #77 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #78 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #79 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #80 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #81 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #82 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #83 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #84 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #85 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #86 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #87 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #88 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #89 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #90 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #91 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #92 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #93 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #94 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #95 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #96 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #97 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #98 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #398 to Host #99 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #1 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #2 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #3 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #4 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #5 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #6 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #7 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #8 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #9 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #10 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #11 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #12 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #13 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #14 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #15 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #16 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #17 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #18 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #19 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #20 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #21 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #22 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #23 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #24 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #25 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #26 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #27 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #28 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #29 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #30 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #31 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #32 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #33 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #34 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #35 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #36 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #37 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #38 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #39 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #40 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #41 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #42 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #43 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #44 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #45 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #46 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #47 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #48 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #49 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #50 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #51 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #52 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #53 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #54 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #55 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #56 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #57 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #58 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #59 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #60 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #61 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #62 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #63 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #64 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #65 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #66 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #67 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #68 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #69 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #70 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #71 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #72 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #73 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #74 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #75 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #76 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #77 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #78 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #79 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #80 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #81 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #82 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #83 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #84 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #85 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #86 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #87 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #88 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #89 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #90 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #91 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #92 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #93 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #94 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #95 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #96 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #97 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #98 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #399 to Host #99 failed by MIPS
+0.1: Broker: VM #0 has been created in Datacenter #2, Host #0
+0.1: Broker: VM #1 has been created in Datacenter #2, Host #1
+0.1: Broker: VM #2 has been created in Datacenter #2, Host #2
+0.1: Broker: VM #3 has been created in Datacenter #2, Host #3
+0.1: Broker: VM #4 has been created in Datacenter #2, Host #4
+0.1: Broker: VM #5 has been created in Datacenter #2, Host #5
+0.1: Broker: VM #6 has been created in Datacenter #2, Host #6
+0.1: Broker: VM #7 has been created in Datacenter #2, Host #7
+0.1: Broker: VM #8 has been created in Datacenter #2, Host #8
+0.1: Broker: VM #9 has been created in Datacenter #2, Host #9
+0.1: Broker: VM #10 has been created in Datacenter #2, Host #10
+0.1: Broker: VM #11 has been created in Datacenter #2, Host #11
+0.1: Broker: VM #12 has been created in Datacenter #2, Host #12
+0.1: Broker: VM #13 has been created in Datacenter #2, Host #13
+0.1: Broker: VM #14 has been created in Datacenter #2, Host #14
+0.1: Broker: VM #15 has been created in Datacenter #2, Host #15
+0.1: Broker: VM #16 has been created in Datacenter #2, Host #16
+0.1: Broker: VM #17 has been created in Datacenter #2, Host #17
+0.1: Broker: VM #18 has been created in Datacenter #2, Host #18
+0.1: Broker: VM #19 has been created in Datacenter #2, Host #19
+0.1: Broker: VM #20 has been created in Datacenter #2, Host #20
+0.1: Broker: VM #21 has been created in Datacenter #2, Host #21
+0.1: Broker: VM #22 has been created in Datacenter #2, Host #22
+0.1: Broker: VM #23 has been created in Datacenter #2, Host #23
+0.1: Broker: VM #24 has been created in Datacenter #2, Host #24
+0.1: Broker: VM #25 has been created in Datacenter #2, Host #25
+0.1: Broker: VM #26 has been created in Datacenter #2, Host #26
+0.1: Broker: VM #27 has been created in Datacenter #2, Host #27
+0.1: Broker: VM #28 has been created in Datacenter #2, Host #28
+0.1: Broker: VM #29 has been created in Datacenter #2, Host #29
+0.1: Broker: VM #30 has been created in Datacenter #2, Host #30
+0.1: Broker: VM #31 has been created in Datacenter #2, Host #31
+0.1: Broker: VM #32 has been created in Datacenter #2, Host #32
+0.1: Broker: VM #33 has been created in Datacenter #2, Host #33
+0.1: Broker: VM #34 has been created in Datacenter #2, Host #34
+0.1: Broker: VM #35 has been created in Datacenter #2, Host #35
+0.1: Broker: VM #36 has been created in Datacenter #2, Host #36
+0.1: Broker: VM #37 has been created in Datacenter #2, Host #37
+0.1: Broker: VM #38 has been created in Datacenter #2, Host #38
+0.1: Broker: VM #39 has been created in Datacenter #2, Host #39
+0.1: Broker: VM #40 has been created in Datacenter #2, Host #40
+0.1: Broker: VM #41 has been created in Datacenter #2, Host #41
+0.1: Broker: VM #42 has been created in Datacenter #2, Host #42
+0.1: Broker: VM #43 has been created in Datacenter #2, Host #43
+0.1: Broker: VM #44 has been created in Datacenter #2, Host #44
+0.1: Broker: VM #45 has been created in Datacenter #2, Host #45
+0.1: Broker: VM #46 has been created in Datacenter #2, Host #46
+0.1: Broker: VM #47 has been created in Datacenter #2, Host #47
+0.1: Broker: VM #48 has been created in Datacenter #2, Host #48
+0.1: Broker: VM #49 has been created in Datacenter #2, Host #49
+0.1: Broker: VM #50 has been created in Datacenter #2, Host #50
+0.1: Broker: VM #51 has been created in Datacenter #2, Host #51
+0.1: Broker: VM #52 has been created in Datacenter #2, Host #52
+0.1: Broker: VM #53 has been created in Datacenter #2, Host #53
+0.1: Broker: VM #54 has been created in Datacenter #2, Host #54
+0.1: Broker: VM #55 has been created in Datacenter #2, Host #55
+0.1: Broker: VM #56 has been created in Datacenter #2, Host #56
+0.1: Broker: VM #57 has been created in Datacenter #2, Host #57
+0.1: Broker: VM #58 has been created in Datacenter #2, Host #58
+0.1: Broker: VM #59 has been created in Datacenter #2, Host #59
+0.1: Broker: VM #60 has been created in Datacenter #2, Host #60
+0.1: Broker: VM #61 has been created in Datacenter #2, Host #61
+0.1: Broker: VM #62 has been created in Datacenter #2, Host #62
+0.1: Broker: VM #63 has been created in Datacenter #2, Host #63
+0.1: Broker: VM #64 has been created in Datacenter #2, Host #64
+0.1: Broker: VM #65 has been created in Datacenter #2, Host #65
+0.1: Broker: VM #66 has been created in Datacenter #2, Host #66
+0.1: Broker: VM #67 has been created in Datacenter #2, Host #67
+0.1: Broker: VM #68 has been created in Datacenter #2, Host #68
+0.1: Broker: VM #69 has been created in Datacenter #2, Host #69
+0.1: Broker: VM #70 has been created in Datacenter #2, Host #70
+0.1: Broker: VM #71 has been created in Datacenter #2, Host #71
+0.1: Broker: VM #72 has been created in Datacenter #2, Host #72
+0.1: Broker: VM #73 has been created in Datacenter #2, Host #73
+0.1: Broker: VM #74 has been created in Datacenter #2, Host #74
+0.1: Broker: VM #75 has been created in Datacenter #2, Host #75
+0.1: Broker: VM #76 has been created in Datacenter #2, Host #76
+0.1: Broker: VM #77 has been created in Datacenter #2, Host #77
+0.1: Broker: VM #78 has been created in Datacenter #2, Host #78
+0.1: Broker: VM #79 has been created in Datacenter #2, Host #79
+0.1: Broker: VM #80 has been created in Datacenter #2, Host #80
+0.1: Broker: VM #81 has been created in Datacenter #2, Host #81
+0.1: Broker: VM #82 has been created in Datacenter #2, Host #82
+0.1: Broker: VM #83 has been created in Datacenter #2, Host #83
+0.1: Broker: VM #84 has been created in Datacenter #2, Host #84
+0.1: Broker: VM #85 has been created in Datacenter #2, Host #85
+0.1: Broker: VM #86 has been created in Datacenter #2, Host #86
+0.1: Broker: VM #87 has been created in Datacenter #2, Host #87
+0.1: Broker: VM #88 has been created in Datacenter #2, Host #88
+0.1: Broker: VM #89 has been created in Datacenter #2, Host #89
+0.1: Broker: VM #90 has been created in Datacenter #2, Host #90
+0.1: Broker: VM #91 has been created in Datacenter #2, Host #91
+0.1: Broker: VM #92 has been created in Datacenter #2, Host #92
+0.1: Broker: VM #93 has been created in Datacenter #2, Host #93
+0.1: Broker: VM #94 has been created in Datacenter #2, Host #94
+0.1: Broker: VM #95 has been created in Datacenter #2, Host #95
+0.1: Broker: VM #96 has been created in Datacenter #2, Host #96
+0.1: Broker: VM #97 has been created in Datacenter #2, Host #97
+0.1: Broker: VM #98 has been created in Datacenter #2, Host #98
+0.1: Broker: VM #99 has been created in Datacenter #2, Host #99
+0.1: Broker: VM #100 has been created in Datacenter #2, Host #0
+0.1: Broker: VM #101 has been created in Datacenter #2, Host #1
+0.1: Broker: VM #102 has been created in Datacenter #2, Host #2
+0.1: Broker: VM #103 has been created in Datacenter #2, Host #3
+0.1: Broker: VM #104 has been created in Datacenter #2, Host #4
+0.1: Broker: VM #105 has been created in Datacenter #2, Host #5
+0.1: Broker: VM #106 has been created in Datacenter #2, Host #6
+0.1: Broker: VM #107 has been created in Datacenter #2, Host #7
+0.1: Broker: VM #108 has been created in Datacenter #2, Host #8
+0.1: Broker: VM #109 has been created in Datacenter #2, Host #9
+0.1: Broker: VM #110 has been created in Datacenter #2, Host #10
+0.1: Broker: VM #111 has been created in Datacenter #2, Host #11
+0.1: Broker: VM #112 has been created in Datacenter #2, Host #12
+0.1: Broker: VM #113 has been created in Datacenter #2, Host #13
+0.1: Broker: VM #114 has been created in Datacenter #2, Host #14
+0.1: Broker: VM #115 has been created in Datacenter #2, Host #15
+0.1: Broker: VM #116 has been created in Datacenter #2, Host #16
+0.1: Broker: VM #117 has been created in Datacenter #2, Host #17
+0.1: Broker: VM #118 has been created in Datacenter #2, Host #18
+0.1: Broker: VM #119 has been created in Datacenter #2, Host #19
+0.1: Broker: VM #120 has been created in Datacenter #2, Host #20
+0.1: Broker: VM #121 has been created in Datacenter #2, Host #21
+0.1: Broker: VM #122 has been created in Datacenter #2, Host #22
+0.1: Broker: VM #123 has been created in Datacenter #2, Host #23
+0.1: Broker: VM #124 has been created in Datacenter #2, Host #24
+0.1: Broker: VM #125 has been created in Datacenter #2, Host #25
+0.1: Broker: VM #126 has been created in Datacenter #2, Host #26
+0.1: Broker: VM #127 has been created in Datacenter #2, Host #27
+0.1: Broker: VM #128 has been created in Datacenter #2, Host #28
+0.1: Broker: VM #129 has been created in Datacenter #2, Host #29
+0.1: Broker: VM #130 has been created in Datacenter #2, Host #30
+0.1: Broker: VM #131 has been created in Datacenter #2, Host #31
+0.1: Broker: VM #132 has been created in Datacenter #2, Host #32
+0.1: Broker: VM #133 has been created in Datacenter #2, Host #33
+0.1: Broker: VM #134 has been created in Datacenter #2, Host #34
+0.1: Broker: VM #135 has been created in Datacenter #2, Host #35
+0.1: Broker: VM #136 has been created in Datacenter #2, Host #36
+0.1: Broker: VM #137 has been created in Datacenter #2, Host #37
+0.1: Broker: VM #138 has been created in Datacenter #2, Host #38
+0.1: Broker: VM #139 has been created in Datacenter #2, Host #39
+0.1: Broker: VM #140 has been created in Datacenter #2, Host #40
+0.1: Broker: VM #141 has been created in Datacenter #2, Host #41
+0.1: Broker: VM #142 has been created in Datacenter #2, Host #42
+0.1: Broker: VM #143 has been created in Datacenter #2, Host #43
+0.1: Broker: VM #144 has been created in Datacenter #2, Host #44
+0.1: Broker: VM #145 has been created in Datacenter #2, Host #45
+0.1: Broker: VM #146 has been created in Datacenter #2, Host #46
+0.1: Broker: VM #147 has been created in Datacenter #2, Host #47
+0.1: Broker: VM #148 has been created in Datacenter #2, Host #48
+0.1: Broker: VM #149 has been created in Datacenter #2, Host #49
+0.1: Broker: VM #150 has been created in Datacenter #2, Host #50
+0.1: Broker: VM #151 has been created in Datacenter #2, Host #51
+0.1: Broker: VM #152 has been created in Datacenter #2, Host #52
+0.1: Broker: VM #153 has been created in Datacenter #2, Host #53
+0.1: Broker: VM #154 has been created in Datacenter #2, Host #54
+0.1: Broker: VM #155 has been created in Datacenter #2, Host #55
+0.1: Broker: VM #156 has been created in Datacenter #2, Host #56
+0.1: Broker: VM #157 has been created in Datacenter #2, Host #57
+0.1: Broker: VM #158 has been created in Datacenter #2, Host #58
+0.1: Broker: VM #159 has been created in Datacenter #2, Host #59
+0.1: Broker: VM #160 has been created in Datacenter #2, Host #60
+0.1: Broker: VM #161 has been created in Datacenter #2, Host #61
+0.1: Broker: VM #162 has been created in Datacenter #2, Host #62
+0.1: Broker: VM #163 has been created in Datacenter #2, Host #63
+0.1: Broker: VM #164 has been created in Datacenter #2, Host #64
+0.1: Broker: VM #165 has been created in Datacenter #2, Host #65
+0.1: Broker: VM #166 has been created in Datacenter #2, Host #66
+0.1: Broker: VM #167 has been created in Datacenter #2, Host #67
+0.1: Broker: VM #168 has been created in Datacenter #2, Host #68
+0.1: Broker: VM #169 has been created in Datacenter #2, Host #69
+0.1: Broker: VM #170 has been created in Datacenter #2, Host #70
+0.1: Broker: VM #171 has been created in Datacenter #2, Host #71
+0.1: Broker: VM #172 has been created in Datacenter #2, Host #72
+0.1: Broker: VM #173 has been created in Datacenter #2, Host #73
+0.1: Broker: VM #174 has been created in Datacenter #2, Host #74
+0.1: Broker: VM #175 has been created in Datacenter #2, Host #75
+0.1: Broker: VM #176 has been created in Datacenter #2, Host #76
+0.1: Broker: VM #177 has been created in Datacenter #2, Host #77
+0.1: Broker: VM #178 has been created in Datacenter #2, Host #78
+0.1: Broker: VM #179 has been created in Datacenter #2, Host #79
+0.1: Broker: VM #180 has been created in Datacenter #2, Host #80
+0.1: Broker: VM #181 has been created in Datacenter #2, Host #81
+0.1: Broker: VM #182 has been created in Datacenter #2, Host #82
+0.1: Broker: VM #183 has been created in Datacenter #2, Host #83
+0.1: Broker: VM #184 has been created in Datacenter #2, Host #84
+0.1: Broker: VM #185 has been created in Datacenter #2, Host #85
+0.1: Broker: VM #186 has been created in Datacenter #2, Host #86
+0.1: Broker: VM #187 has been created in Datacenter #2, Host #87
+0.1: Broker: VM #188 has been created in Datacenter #2, Host #88
+0.1: Broker: VM #189 has been created in Datacenter #2, Host #89
+0.1: Broker: VM #190 has been created in Datacenter #2, Host #90
+0.1: Broker: VM #191 has been created in Datacenter #2, Host #91
+0.1: Broker: VM #192 has been created in Datacenter #2, Host #92
+0.1: Broker: VM #193 has been created in Datacenter #2, Host #93
+0.1: Broker: VM #194 has been created in Datacenter #2, Host #94
+0.1: Broker: VM #195 has been created in Datacenter #2, Host #95
+0.1: Broker: VM #196 has been created in Datacenter #2, Host #96
+0.1: Broker: VM #197 has been created in Datacenter #2, Host #97
+0.1: Broker: VM #198 has been created in Datacenter #2, Host #98
+0.1: Broker: VM #199 has been created in Datacenter #2, Host #99
+0.1: Broker: Creation of VM #200 failed in Datacenter #2
+0.1: Broker: Creation of VM #201 failed in Datacenter #2
+0.1: Broker: Creation of VM #202 failed in Datacenter #2
+0.1: Broker: Creation of VM #203 failed in Datacenter #2
+0.1: Broker: Creation of VM #204 failed in Datacenter #2
+0.1: Broker: Creation of VM #205 failed in Datacenter #2
+0.1: Broker: Creation of VM #206 failed in Datacenter #2
+0.1: Broker: Creation of VM #207 failed in Datacenter #2
+0.1: Broker: Creation of VM #208 failed in Datacenter #2
+0.1: Broker: Creation of VM #209 failed in Datacenter #2
+0.1: Broker: Creation of VM #210 failed in Datacenter #2
+0.1: Broker: Creation of VM #211 failed in Datacenter #2
+0.1: Broker: Creation of VM #212 failed in Datacenter #2
+0.1: Broker: Creation of VM #213 failed in Datacenter #2
+0.1: Broker: Creation of VM #214 failed in Datacenter #2
+0.1: Broker: Creation of VM #215 failed in Datacenter #2
+0.1: Broker: Creation of VM #216 failed in Datacenter #2
+0.1: Broker: Creation of VM #217 failed in Datacenter #2
+0.1: Broker: Creation of VM #218 failed in Datacenter #2
+0.1: Broker: Creation of VM #219 failed in Datacenter #2
+0.1: Broker: Creation of VM #220 failed in Datacenter #2
+0.1: Broker: Creation of VM #221 failed in Datacenter #2
+0.1: Broker: Creation of VM #222 failed in Datacenter #2
+0.1: Broker: Creation of VM #223 failed in Datacenter #2
+0.1: Broker: Creation of VM #224 failed in Datacenter #2
+0.1: Broker: Creation of VM #225 failed in Datacenter #2
+0.1: Broker: Creation of VM #226 failed in Datacenter #2
+0.1: Broker: Creation of VM #227 failed in Datacenter #2
+0.1: Broker: Creation of VM #228 failed in Datacenter #2
+0.1: Broker: Creation of VM #229 failed in Datacenter #2
+0.1: Broker: Creation of VM #230 failed in Datacenter #2
+0.1: Broker: Creation of VM #231 failed in Datacenter #2
+0.1: Broker: Creation of VM #232 failed in Datacenter #2
+0.1: Broker: Creation of VM #233 failed in Datacenter #2
+0.1: Broker: Creation of VM #234 failed in Datacenter #2
+0.1: Broker: Creation of VM #235 failed in Datacenter #2
+0.1: Broker: Creation of VM #236 failed in Datacenter #2
+0.1: Broker: Creation of VM #237 failed in Datacenter #2
+0.1: Broker: Creation of VM #238 failed in Datacenter #2
+0.1: Broker: Creation of VM #239 failed in Datacenter #2
+0.1: Broker: Creation of VM #240 failed in Datacenter #2
+0.1: Broker: Creation of VM #241 failed in Datacenter #2
+0.1: Broker: Creation of VM #242 failed in Datacenter #2
+0.1: Broker: Creation of VM #243 failed in Datacenter #2
+0.1: Broker: Creation of VM #244 failed in Datacenter #2
+0.1: Broker: Creation of VM #245 failed in Datacenter #2
+0.1: Broker: Creation of VM #246 failed in Datacenter #2
+0.1: Broker: Creation of VM #247 failed in Datacenter #2
+0.1: Broker: Creation of VM #248 failed in Datacenter #2
+0.1: Broker: Creation of VM #249 failed in Datacenter #2
+0.1: Broker: Creation of VM #250 failed in Datacenter #2
+0.1: Broker: Creation of VM #251 failed in Datacenter #2
+0.1: Broker: Creation of VM #252 failed in Datacenter #2
+0.1: Broker: Creation of VM #253 failed in Datacenter #2
+0.1: Broker: Creation of VM #254 failed in Datacenter #2
+0.1: Broker: Creation of VM #255 failed in Datacenter #2
+0.1: Broker: Creation of VM #256 failed in Datacenter #2
+0.1: Broker: Creation of VM #257 failed in Datacenter #2
+0.1: Broker: Creation of VM #258 failed in Datacenter #2
+0.1: Broker: Creation of VM #259 failed in Datacenter #2
+0.1: Broker: Creation of VM #260 failed in Datacenter #2
+0.1: Broker: Creation of VM #261 failed in Datacenter #2
+0.1: Broker: Creation of VM #262 failed in Datacenter #2
+0.1: Broker: Creation of VM #263 failed in Datacenter #2
+0.1: Broker: Creation of VM #264 failed in Datacenter #2
+0.1: Broker: Creation of VM #265 failed in Datacenter #2
+0.1: Broker: Creation of VM #266 failed in Datacenter #2
+0.1: Broker: Creation of VM #267 failed in Datacenter #2
+0.1: Broker: Creation of VM #268 failed in Datacenter #2
+0.1: Broker: Creation of VM #269 failed in Datacenter #2
+0.1: Broker: Creation of VM #270 failed in Datacenter #2
+0.1: Broker: Creation of VM #271 failed in Datacenter #2
+0.1: Broker: Creation of VM #272 failed in Datacenter #2
+0.1: Broker: Creation of VM #273 failed in Datacenter #2
+0.1: Broker: Creation of VM #274 failed in Datacenter #2
+0.1: Broker: Creation of VM #275 failed in Datacenter #2
+0.1: Broker: Creation of VM #276 failed in Datacenter #2
+0.1: Broker: Creation of VM #277 failed in Datacenter #2
+0.1: Broker: Creation of VM #278 failed in Datacenter #2
+0.1: Broker: Creation of VM #279 failed in Datacenter #2
+0.1: Broker: Creation of VM #280 failed in Datacenter #2
+0.1: Broker: Creation of VM #281 failed in Datacenter #2
+0.1: Broker: Creation of VM #282 failed in Datacenter #2
+0.1: Broker: Creation of VM #283 failed in Datacenter #2
+0.1: Broker: Creation of VM #284 failed in Datacenter #2
+0.1: Broker: Creation of VM #285 failed in Datacenter #2
+0.1: Broker: Creation of VM #286 failed in Datacenter #2
+0.1: Broker: Creation of VM #287 failed in Datacenter #2
+0.1: Broker: Creation of VM #288 failed in Datacenter #2
+0.1: Broker: Creation of VM #289 failed in Datacenter #2
+0.1: Broker: Creation of VM #290 failed in Datacenter #2
+0.1: Broker: Creation of VM #291 failed in Datacenter #2
+0.1: Broker: Creation of VM #292 failed in Datacenter #2
+0.1: Broker: Creation of VM #293 failed in Datacenter #2
+0.1: Broker: Creation of VM #294 failed in Datacenter #2
+0.1: Broker: Creation of VM #295 failed in Datacenter #2
+0.1: Broker: Creation of VM #296 failed in Datacenter #2
+0.1: Broker: Creation of VM #297 failed in Datacenter #2
+0.1: Broker: Creation of VM #298 failed in Datacenter #2
+0.1: Broker: Creation of VM #299 failed in Datacenter #2
+0.1: Broker: Creation of VM #300 failed in Datacenter #2
+0.1: Broker: Creation of VM #301 failed in Datacenter #2
+0.1: Broker: Creation of VM #302 failed in Datacenter #2
+0.1: Broker: Creation of VM #303 failed in Datacenter #2
+0.1: Broker: Creation of VM #304 failed in Datacenter #2
+0.1: Broker: Creation of VM #305 failed in Datacenter #2
+0.1: Broker: Creation of VM #306 failed in Datacenter #2
+0.1: Broker: Creation of VM #307 failed in Datacenter #2
+0.1: Broker: Creation of VM #308 failed in Datacenter #2
+0.1: Broker: Creation of VM #309 failed in Datacenter #2
+0.1: Broker: Creation of VM #310 failed in Datacenter #2
+0.1: Broker: Creation of VM #311 failed in Datacenter #2
+0.1: Broker: Creation of VM #312 failed in Datacenter #2
+0.1: Broker: Creation of VM #313 failed in Datacenter #2
+0.1: Broker: Creation of VM #314 failed in Datacenter #2
+0.1: Broker: Creation of VM #315 failed in Datacenter #2
+0.1: Broker: Creation of VM #316 failed in Datacenter #2
+0.1: Broker: Creation of VM #317 failed in Datacenter #2
+0.1: Broker: Creation of VM #318 failed in Datacenter #2
+0.1: Broker: Creation of VM #319 failed in Datacenter #2
+0.1: Broker: Creation of VM #320 failed in Datacenter #2
+0.1: Broker: Creation of VM #321 failed in Datacenter #2
+0.1: Broker: Creation of VM #322 failed in Datacenter #2
+0.1: Broker: Creation of VM #323 failed in Datacenter #2
+0.1: Broker: Creation of VM #324 failed in Datacenter #2
+0.1: Broker: Creation of VM #325 failed in Datacenter #2
+0.1: Broker: Creation of VM #326 failed in Datacenter #2
+0.1: Broker: Creation of VM #327 failed in Datacenter #2
+0.1: Broker: Creation of VM #328 failed in Datacenter #2
+0.1: Broker: Creation of VM #329 failed in Datacenter #2
+0.1: Broker: Creation of VM #330 failed in Datacenter #2
+0.1: Broker: Creation of VM #331 failed in Datacenter #2
+0.1: Broker: Creation of VM #332 failed in Datacenter #2
+0.1: Broker: Creation of VM #333 failed in Datacenter #2
+0.1: Broker: Creation of VM #334 failed in Datacenter #2
+0.1: Broker: Creation of VM #335 failed in Datacenter #2
+0.1: Broker: Creation of VM #336 failed in Datacenter #2
+0.1: Broker: Creation of VM #337 failed in Datacenter #2
+0.1: Broker: Creation of VM #338 failed in Datacenter #2
+0.1: Broker: Creation of VM #339 failed in Datacenter #2
+0.1: Broker: Creation of VM #340 failed in Datacenter #2
+0.1: Broker: Creation of VM #341 failed in Datacenter #2
+0.1: Broker: Creation of VM #342 failed in Datacenter #2
+0.1: Broker: Creation of VM #343 failed in Datacenter #2
+0.1: Broker: Creation of VM #344 failed in Datacenter #2
+0.1: Broker: Creation of VM #345 failed in Datacenter #2
+0.1: Broker: Creation of VM #346 failed in Datacenter #2
+0.1: Broker: Creation of VM #347 failed in Datacenter #2
+0.1: Broker: Creation of VM #348 failed in Datacenter #2
+0.1: Broker: Creation of VM #349 failed in Datacenter #2
+0.1: Broker: Creation of VM #350 failed in Datacenter #2
+0.1: Broker: Creation of VM #351 failed in Datacenter #2
+0.1: Broker: Creation of VM #352 failed in Datacenter #2
+0.1: Broker: Creation of VM #353 failed in Datacenter #2
+0.1: Broker: Creation of VM #354 failed in Datacenter #2
+0.1: Broker: Creation of VM #355 failed in Datacenter #2
+0.1: Broker: Creation of VM #356 failed in Datacenter #2
+0.1: Broker: Creation of VM #357 failed in Datacenter #2
+0.1: Broker: Creation of VM #358 failed in Datacenter #2
+0.1: Broker: Creation of VM #359 failed in Datacenter #2
+0.1: Broker: Creation of VM #360 failed in Datacenter #2
+0.1: Broker: Creation of VM #361 failed in Datacenter #2
+0.1: Broker: Creation of VM #362 failed in Datacenter #2
+0.1: Broker: Creation of VM #363 failed in Datacenter #2
+0.1: Broker: Creation of VM #364 failed in Datacenter #2
+0.1: Broker: Creation of VM #365 failed in Datacenter #2
+0.1: Broker: Creation of VM #366 failed in Datacenter #2
+0.1: Broker: Creation of VM #367 failed in Datacenter #2
+0.1: Broker: Creation of VM #368 failed in Datacenter #2
+0.1: Broker: Creation of VM #369 failed in Datacenter #2
+0.1: Broker: Creation of VM #370 failed in Datacenter #2
+0.1: Broker: Creation of VM #371 failed in Datacenter #2
+0.1: Broker: Creation of VM #372 failed in Datacenter #2
+0.1: Broker: Creation of VM #373 failed in Datacenter #2
+0.1: Broker: Creation of VM #374 failed in Datacenter #2
+0.1: Broker: Creation of VM #375 failed in Datacenter #2
+0.1: Broker: Creation of VM #376 failed in Datacenter #2
+0.1: Broker: Creation of VM #377 failed in Datacenter #2
+0.1: Broker: Creation of VM #378 failed in Datacenter #2
+0.1: Broker: Creation of VM #379 failed in Datacenter #2
+0.1: Broker: Creation of VM #380 failed in Datacenter #2
+0.1: Broker: Creation of VM #381 failed in Datacenter #2
+0.1: Broker: Creation of VM #382 failed in Datacenter #2
+0.1: Broker: Creation of VM #383 failed in Datacenter #2
+0.1: Broker: Creation of VM #384 failed in Datacenter #2
+0.1: Broker: Creation of VM #385 failed in Datacenter #2
+0.1: Broker: Creation of VM #386 failed in Datacenter #2
+0.1: Broker: Creation of VM #387 failed in Datacenter #2
+0.1: Broker: Creation of VM #388 failed in Datacenter #2
+0.1: Broker: Creation of VM #389 failed in Datacenter #2
+0.1: Broker: Creation of VM #390 failed in Datacenter #2
+0.1: Broker: Creation of VM #391 failed in Datacenter #2
+0.1: Broker: Creation of VM #392 failed in Datacenter #2
+0.1: Broker: Creation of VM #393 failed in Datacenter #2
+0.1: Broker: Creation of VM #394 failed in Datacenter #2
+0.1: Broker: Creation of VM #395 failed in Datacenter #2
+0.1: Broker: Creation of VM #396 failed in Datacenter #2
+0.1: Broker: Creation of VM #397 failed in Datacenter #2
+0.1: Broker: Creation of VM #398 failed in Datacenter #2
+0.1: Broker: Creation of VM #399 failed in Datacenter #2
+0.1: Broker: Postponing execution of cloudlet 0: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 1: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 2: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 3: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 4: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 5: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 6: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 7: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 8: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 9: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 10: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 11: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 12: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 13: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 14: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 15: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 16: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 17: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 18: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 19: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 20: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 21: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 22: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 23: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 24: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 25: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 26: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 27: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 28: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 29: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 30: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 31: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 32: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 33: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 34: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 35: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 36: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 37: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 38: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 39: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 40: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 41: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 42: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 43: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 44: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 45: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 46: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 47: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 48: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 49: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 50: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 51: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 52: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 53: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 54: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 55: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 56: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 57: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 58: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 59: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 60: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 61: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 62: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 63: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 64: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 65: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 66: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 67: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 68: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 69: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 70: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 71: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 72: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 73: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 74: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 75: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 76: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 77: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 78: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 79: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 80: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 81: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 82: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 83: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 84: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 85: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 86: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 87: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 88: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 89: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 90: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 91: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 92: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 93: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 94: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 95: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 96: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 97: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 98: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 99: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 100: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 101: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 102: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 103: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 104: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 105: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 106: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 107: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 108: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 109: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 110: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 111: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 112: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 113: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 114: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 115: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 116: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 117: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 118: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 119: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 120: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 121: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 122: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 123: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 124: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 125: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 126: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 127: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 128: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 129: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 130: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 131: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 132: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 133: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 134: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 135: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 136: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 137: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 138: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 139: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 140: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 141: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 142: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 143: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 144: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 145: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 146: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 147: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 148: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 149: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 150: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 151: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 152: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 153: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 154: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 155: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 156: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 157: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 158: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 159: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 160: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 161: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 162: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 163: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 164: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 165: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 166: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 167: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 168: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 169: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 170: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 171: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 172: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 173: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 174: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 175: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 176: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 177: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 178: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 179: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 180: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 181: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 182: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 183: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 184: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 185: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 186: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 187: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 188: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 189: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 190: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 191: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 192: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 193: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 194: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 195: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 196: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 197: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 198: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 199: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 200: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 201: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 202: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 203: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 204: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 205: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 206: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 207: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 208: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 209: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 210: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 211: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 212: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 213: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 214: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 215: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 216: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 217: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 218: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 219: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 220: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 221: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 222: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 223: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 224: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 225: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 226: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 227: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 228: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 229: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 230: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 231: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 232: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 233: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 234: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 235: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 236: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 237: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 238: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 239: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 240: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 241: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 242: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 243: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 244: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 245: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 246: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 247: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 248: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 249: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 250: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 251: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 252: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 253: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 254: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 255: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 256: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 257: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 258: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 259: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 260: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 261: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 262: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 263: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 264: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 265: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 266: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 267: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 268: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 269: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 270: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 271: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 272: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 273: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 274: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 275: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 276: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 277: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 278: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 279: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 280: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 281: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 282: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 283: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 284: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 285: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 286: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 287: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 288: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 289: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 290: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 291: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 292: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 293: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 294: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 295: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 296: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 297: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 298: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 299: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 300: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 301: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 302: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 303: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 304: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 305: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 306: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 307: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 308: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 309: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 310: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 311: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 312: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 313: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 314: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 315: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 316: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 317: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 318: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 319: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 320: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 321: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 322: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 323: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 324: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 325: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 326: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 327: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 328: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 329: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 330: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 331: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 332: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 333: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 334: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 335: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 336: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 337: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 338: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 339: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 340: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 341: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 342: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 343: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 344: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 345: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 346: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 347: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 348: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 349: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 350: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 351: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 352: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 353: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 354: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 355: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 356: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 357: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 358: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 359: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 360: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 361: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 362: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 363: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 364: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 365: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 366: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 367: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 368: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 369: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 370: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 371: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 372: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 373: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 374: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 375: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 376: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 377: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 378: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 379: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 380: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 381: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 382: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 383: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 384: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 385: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 386: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 387: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 388: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 389: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 390: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 391: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 392: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 393: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 394: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 395: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 396: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 397: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 398: bount VM not available
+0.1: Broker: Postponing execution of cloudlet 399: bount VM not available
+Simulation: No more future events
+CloudInformationService: Notify all CloudSim entities for shutting down.
+Datacenter_0 is shutting down...
+Broker is shutting down...
+Simulation completed.
+Simulation completed.
+
+========== OUTPUT ==========
+Cloudlet ID    STATUS    Data center ID    VM ID    Time    Start Time    Finish Time
+Problem 3 not completely finished....	
