@@ -82,7 +82,7 @@ public class Problem3 {
 
 			Cloudlet cloudlet = new Cloudlet(i, length, pesNumber, fileSize, outputSize, utilizationModel, utilizationModel, utilizationModel);
 			cloudlet.setUserId(brokerId);
-			cloudlet.setVmId(vmid+i);
+			cloudlet.setVmId(i);
 				
 			
 			
@@ -97,7 +97,7 @@ public class Problem3 {
 
 			for( int i = 0; i < 400; i++ ) {
 				 
-					broker.bindCloudletToVm(i,vmid+i);
+					broker.bindCloudletToVm(i,i);
 			}
 		
 			// Sixth step: Starts the simulation
