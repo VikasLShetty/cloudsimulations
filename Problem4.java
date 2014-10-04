@@ -1,121 +1,38 @@
-package problems;
+/*
+very important!
+change the sendNow function in broker class to the following:
+
+send(getVmsToDatacentersMap().get(vm.getId()),cloudlet.getExecStartTime(), CloudSimTags.CLOUDLET_SUBMIT, cloudlet);
+
+*/
+
+
+package org.cloudbus.cloudsim.examples;
 
 import java.text.DecimalFormat;
 import java.util.*;
 
-import org.cloudbus.cloudsim.Cloudlet;
-import org.cloudbus.cloudsim.CloudletSchedulerTimeShared;
-import org.cloudbus.cloudsim.Datacenter;
-import org.cloudbus.cloudsim.DatacenterBroker;
-import org.cloudbus.cloudsim.DatacenterCharacteristics;
-import org.cloudbus.cloudsim.Host;
-import org.cloudbus.cloudsim.Log;
-import org.cloudbus.cloudsim.Pe;
-import org.cloudbus.cloudsim.Storage;
-import org.cloudbus.cloudsim.UtilizationModel;
-import org.cloudbus.cloudsim.UtilizationModelFull;
-import org.cloudbus.cloudsim.Vm;
-import org.cloudbus.cloudsim.VmAllocationPolicySimple;
-import org.cloudbus.cloudsim.VmSchedulerSpaceShared;
-import org.cloudbus.cloudsim.VmSchedulerTimeShared;
-import org.cloudbus.cloudsim.core.CloudSim;
-import org.cloudbus.cloudsim.provisioners.BwProvisionerSimple;
-import org.cloudbus.cloudsim.provisioners.PeProvisionerSimple;
-import org.cloudbus.cloudsim.provisioners.RamProvisionerSimple;
+import org.cloudbus.cloudsim.*;
+import org.cloudbus.cloudsim.core.*;
+import org.cloudbus.cloudsim.provisioners.*;
 
 public class Problem4 {
 
 	/** The cloudlet list. */
-	private static List<Cloudlet> cloudletList;
+	private static List<Cloudlet> cloudletlist;
 
 	/** The vmlist. */
 	private static List<Vm> vmlist;
 
-	private static ArrayList<Host> createHosts(int noOfHosts) {
-		
-		ArrayList<Host> hostList = new ArrayList<Host>();
-		
-		List<Pe> peList = new ArrayList<Pe>();
-
-		int mips = 1200;
-
-		peList.add(new Pe(0, new PeProvisionerSimple(mips))); // need to store Pe id and MIPS Rating
-		
-		int ram = 4096; // host memory (MB)
-		long storage = 2000000; // host storage
-		int bw = 10000;
-
-		for( int i = 0; i < noOfHosts; i++ ) {
-		
-			hostList.add(
-					new Host(
-							i,
-							new RamProvisionerSimple(ram),
-							new BwProvisionerSimple(bw),
-							storage,
-							peList,
-							new VmSchedulerSpaceShared(peList)
-							)
-					); 
-
-		}
-		
-		return hostList;
-	
-	}
-	
-	private static List<Cloudlet> createCloudlets(int noOfCloudlets,int brokerId) {
-		
-		ArrayList<Cloudlet> cloudletList = new ArrayList<Cloudlet>();
-		
-		// Cloudlet properties
-		int pesNumber = 1;
-		long length = 1440000000;
-		long fileSize = 300;
-		long outputSize = 300;
-		UtilizationModel utilizationModel = new UtilizationModelFull();
-
-		for(int i = 0; i < noOfCloudlets; i++ ) {			
-
-			Cloudlet cloudlet = new Cloudlet(i, length, pesNumber, fileSize, outputSize, utilizationModel, utilizationModel, utilizationModel);					
-			cloudlet.setUserId(brokerId);
-		
-			cloudletList.add(cloudlet);
-		}
-		
-		return cloudletList;
-	}
-	
-	private static ArrayList<Vm> createVms(int noOfVms, int brokerId) {
-		
-		ArrayList<Vm> vmlist = new ArrayList<Vm>();
-		
-		// VM description
-		int mips = 1000;
-		long size = 1024; // image size (MB)
-		int ram = 1024; // vm memory (MB)
-		long bw = 1000;
-		int pesNumber = 1; // number of cpus
-		String vmm = "Xen"; // VMM name
-
-		
-		for( int i = 0; i < noOfVms; i++ ) {
-		// create VM
-		Vm vm = new Vm(i, brokerId, mips, pesNumber, ram, bw, size, vmm, new CloudletSchedulerTimeShared());
-		
-		vmlist.add(vm);
-		
-		}
-		
-	    return vmlist;
-	
-	}
-	
-
+	/**
+	 * Creates main() to run this example.
+	 *
+	 * @param args the args
+	 */
 	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 
-		Log.printLine("Problem 3:");
+		Log.printLine("Problem 4:");
 
 		try {
 			// First step: Initialize the CloudSim package. It should be called
@@ -138,20 +55,86 @@ public class Problem4 {
 
 			// Fourth step: Create one virtual machine
 			vmlist = new ArrayList<Vm>();
+
+			// VM description
+			int vmid = 0;
+			int mips = 1000;
+			long size = 10000; // image size (MB)
+			int ram = 1024; // vm memory (MB)
+			long bw = 1000;
+			int pesNumber = 1; // number of cpus
+			String vmm = "Xen"; // VMM name
+
+			//setup 400 vms
+			while(vmid<50){
+			// create VM
+			Vm vm = new Vm(vmid, brokerId, mips, pesNumber, ram, bw, size, vmm, new CloudletSchedulerTimeShared()); //This implements Time sharing
+			// add the VMs to the vmList
+			vmlist.add(vm);
+			vmid++;
+			}
 			
-			vmlist = createVms(50,broker.getId());
 
 			// submit vms list to the broker
 			broker.submitVmList(vmlist);
 
+			// Cloudlet properties
+			final long length = 1440000;
+			final long fileSize = 300; // size in kB
+			final long outputSize = 300;
+			final UtilizationModel utilizationModel = new UtilizationModelFull();
+			
 			// Fifth step: Create one Cloudlet
-			cloudletList = new ArrayList<Cloudlet>();
+			cloudletlist = new ArrayList<Cloudlet>();
 
-			cloudletList = createCloudlets(300,broker.getId());
+		
+			int j=0;
+			for(int i = 0; i < 300; i++ ) {			
+			
+			Cloudlet cloudlet = new Cloudlet(i, length, pesNumber, fileSize, outputSize, utilizationModel, utilizationModel, utilizationModel);
+			cloudlet.setUserId(brokerId);
+			cloudlet.setVmId(j);
+			if(i<50)
+				cloudlet.setExecStartTime(0);
+			if(i>50 && i<100)
+				cloudlet.setExecStartTime(1000);
+			if(i>100 && i<150)
+				cloudlet.setExecStartTime(2000);
+			if(i>150 && i<200)
+				cloudlet.setExecStartTime(3000);
+			if(i>200 && i<250)
+				cloudlet.setExecStartTime(4000);
+			if(i>250)
+				cloudlet.setExecStartTime(5000);
+			j=(j+1)%50;	
+			// add the cloudlet to the list
+			cloudletlist.add(cloudlet);
+			
+			}
 			
 			// submit cloudlet list to the broker
-			broker.submitCloudletList(cloudletList);
-
+			broker.submitCloudletList(cloudletlist);
+			/*
+			for(int i = 50; i < 100; i++ ) {			
+			
+			Cloudlet cloudlet = new Cloudlet(i, length, pesNumber, fileSize, outputSize, utilizationModel, utilizationModel, utilizationModel);
+			cloudlet.setUserId(brokerId);
+			cloudlet.setVmId(j);
+			cloudlet.setSubmissionTime(200);
+			j=(j+1)%50;	
+			// add the cloudlet to the list
+			cloudletlist.add(cloudlet);
+			
+			}
+			
+			// submit cloudlet list to the broker
+			broker.submitCloudletList(cloudletlist);
+			for( int i = 0; i < 300; i++ ) {
+				 
+					broker.bindCloudletToVm(i,i);
+			}
+		
+			*/
 			// Sixth step: Starts the simulation
 			CloudSim.startSimulation();
 
@@ -161,20 +144,63 @@ public class Problem4 {
 			List<Cloudlet> newList = broker.getCloudletReceivedList();
 			printCloudletList(newList);
 
-			Log.printLine("Problem 2 finished!");
+			Log.printLine("Problem 4 not completely finished....	");
 		} catch (Exception e) {
 			e.printStackTrace();
 			Log.printLine("Unwanted errors happen");
 		}
 	}
 
+	/**
+	 * Creates the datacenter.
+	 *
+	 * @param name the name
+	 *
+	 * @return the datacenter
+	 */
 	private static Datacenter createDatacenter(String name) {
 
+		// Here are the steps needed to create a PowerDatacenter:
+		// 1. We need to create a list to store
+		// our machine
 		List<Host> hostList = new ArrayList<Host>();
 
+		// 2. A Machine contains one or more PEs or CPUs/Cores.
+		// In this example, it will have only one core.
+		List<Pe> peList = new ArrayList<Pe>();
+
+		int mips = 1200;
+
+		// 3. Create PEs and add these into a list.
+		peList.add(new Pe(0, new PeProvisionerSimple(mips))); // need to store Pe id and MIPS Rating
+		peList.add(new Pe(1, new PeProvisionerSimple(mips))); //second PE
 		
-		hostList = createHosts(10000);
+		// 4. Create Host with its id and list of PEs and add them to the list
+		// of machines
+		int hostId = 0;
+		int ram = 2048*2; // host memory (MB)
+		long storage = 2000000; // host storage
+		int bw = 10000;
 		
+		//set up 100 hosts 
+		while(hostId<10000){
+		hostList.add(
+			new Host(
+				hostId++,
+				new RamProvisionerSimple(ram),
+				new BwProvisionerSimple(bw),
+				storage,
+				peList,
+				new VmSchedulerSpaceShared(peList)
+			)
+		); // This is our machine
+		
+		}
+
+		// 5. Create a DatacenterCharacteristics object that stores the
+		// properties of a data center: architecture, OS, list of
+		// Machines, allocation policy: time- or space-shared, time zone
+		// and its price (G$/Pe time unit).
 		String arch = "x86"; // system architecture
 		String os = "Linux"; // operating system
 		String vmm = "Xen";
@@ -191,6 +217,7 @@ public class Problem4 {
 				arch, os, vmm, hostList, time_zone, cost, costPerMem,
 				costPerStorage, costPerBw);
 
+		// 6. Finally, we need to create a PowerDatacenter object.
 		Datacenter datacenter = null;
 		try {
 			datacenter = new Datacenter(name, characteristics, new VmAllocationPolicySimple(hostList), storageList, 0);
@@ -201,6 +228,14 @@ public class Problem4 {
 		return datacenter;
 	}
 
+	// We strongly encourage users to develop their own broker policies, to
+	// submit vms and cloudlets according
+	// to the specific rules of the simulated scenario
+	/**
+	 * Creates the broker.
+	 *
+	 * @return the datacenter broker
+	 */
 	private static DatacenterBroker createBroker() {
 		DatacenterBroker broker = null;
 		try {
@@ -212,6 +247,11 @@ public class Problem4 {
 		return broker;
 	}
 
+	/**
+	 * Prints the Cloudlet objects.
+	 *
+	 * @param list list of Cloudlets
+	 */
 	private static void printCloudletList(List<Cloudlet> list) {
 		int size = list.size();
 		Cloudlet cloudlet;
