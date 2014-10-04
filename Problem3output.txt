@@ -1,261 +1,3 @@
-[VmScheduler.vmCreate] Allocation of VM #396 to Host #56 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #396 to Host #57 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #396 to Host #58 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #396 to Host #59 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #396 to Host #60 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #396 to Host #61 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #396 to Host #62 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #396 to Host #63 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #396 to Host #64 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #396 to Host #65 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #396 to Host #66 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #396 to Host #67 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #396 to Host #68 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #396 to Host #69 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #396 to Host #70 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #396 to Host #71 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #396 to Host #72 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #396 to Host #73 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #396 to Host #74 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #396 to Host #75 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #396 to Host #76 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #396 to Host #77 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #396 to Host #78 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #396 to Host #79 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #396 to Host #80 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #396 to Host #81 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #396 to Host #82 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #396 to Host #83 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #396 to Host #84 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #396 to Host #85 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #396 to Host #86 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #396 to Host #87 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #396 to Host #88 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #396 to Host #89 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #396 to Host #90 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #396 to Host #91 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #396 to Host #92 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #396 to Host #93 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #396 to Host #94 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #396 to Host #95 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #396 to Host #96 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #396 to Host #97 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #396 to Host #98 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #396 to Host #99 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #0 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #1 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #2 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #3 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #4 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #5 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #6 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #7 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #8 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #9 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #10 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #11 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #12 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #13 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #14 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #15 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #16 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #17 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #18 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #19 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #20 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #21 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #22 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #23 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #24 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #25 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #26 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #27 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #28 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #29 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #30 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #31 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #32 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #33 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #34 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #35 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #36 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #37 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #38 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #39 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #40 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #41 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #42 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #43 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #44 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #45 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #46 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #47 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #48 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #49 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #50 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #51 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #52 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #53 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #54 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #55 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #56 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #57 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #58 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #59 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #60 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #61 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #62 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #63 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #64 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #65 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #66 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #67 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #68 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #69 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #70 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #71 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #72 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #73 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #74 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #75 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #76 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #77 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #78 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #79 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #80 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #81 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #82 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #83 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #84 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #85 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #86 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #87 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #88 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #89 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #90 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #91 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #92 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #93 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #94 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #95 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #96 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #97 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #98 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #397 to Host #99 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #0 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #1 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #2 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #3 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #4 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #5 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #6 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #7 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #8 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #9 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #10 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #11 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #12 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #13 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #14 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #15 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #16 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #17 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #18 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #19 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #20 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #21 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #22 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #23 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #24 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #25 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #26 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #27 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #28 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #29 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #30 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #31 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #32 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #33 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #34 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #35 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #36 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #37 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #38 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #39 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #40 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #41 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #42 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #43 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #44 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #45 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #46 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #47 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #48 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #49 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #50 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #51 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #52 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #53 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #54 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #55 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #56 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #57 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #58 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #59 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #60 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #61 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #62 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #63 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #64 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #65 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #66 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #67 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #68 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #69 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #70 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #71 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #72 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #73 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #74 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #75 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #76 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #77 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #78 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #79 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #80 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #81 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #82 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #83 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #84 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #85 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #86 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #87 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #88 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #89 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #90 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #91 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #92 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #93 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #94 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #95 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #96 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #97 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #98 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #398 to Host #99 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #399 to Host #0 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #399 to Host #1 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #399 to Host #2 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #399 to Host #3 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #399 to Host #4 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #399 to Host #5 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #399 to Host #6 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #399 to Host #7 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #399 to Host #8 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #399 to Host #9 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #399 to Host #10 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #399 to Host #11 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #399 to Host #12 failed by MIPS
-[VmScheduler.vmCreate] Allocation of VM #399 to Host #13 failed by MIPS
 [VmScheduler.vmCreate] Allocation of VM #399 to Host #14 failed by MIPS
 [VmScheduler.vmCreate] Allocation of VM #399 to Host #15 failed by MIPS
 [VmScheduler.vmCreate] Allocation of VM #399 to Host #16 failed by MIPS
@@ -742,206 +484,206 @@
 0.1: Broker: Creation of VM #397 failed in Datacenter #2
 0.1: Broker: Creation of VM #398 failed in Datacenter #2
 0.1: Broker: Creation of VM #399 failed in Datacenter #2
-0.1: Broker: Postponing execution of cloudlet 0: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 1: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 2: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 3: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 4: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 5: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 6: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 7: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 8: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 9: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 10: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 11: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 12: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 13: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 14: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 15: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 16: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 17: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 18: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 19: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 20: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 21: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 22: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 23: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 24: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 25: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 26: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 27: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 28: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 29: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 30: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 31: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 32: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 33: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 34: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 35: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 36: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 37: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 38: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 39: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 40: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 41: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 42: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 43: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 44: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 45: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 46: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 47: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 48: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 49: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 50: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 51: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 52: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 53: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 54: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 55: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 56: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 57: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 58: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 59: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 60: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 61: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 62: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 63: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 64: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 65: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 66: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 67: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 68: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 69: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 70: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 71: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 72: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 73: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 74: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 75: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 76: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 77: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 78: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 79: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 80: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 81: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 82: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 83: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 84: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 85: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 86: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 87: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 88: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 89: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 90: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 91: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 92: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 93: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 94: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 95: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 96: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 97: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 98: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 99: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 100: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 101: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 102: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 103: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 104: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 105: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 106: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 107: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 108: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 109: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 110: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 111: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 112: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 113: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 114: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 115: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 116: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 117: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 118: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 119: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 120: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 121: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 122: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 123: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 124: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 125: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 126: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 127: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 128: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 129: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 130: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 131: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 132: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 133: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 134: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 135: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 136: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 137: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 138: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 139: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 140: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 141: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 142: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 143: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 144: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 145: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 146: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 147: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 148: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 149: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 150: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 151: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 152: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 153: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 154: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 155: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 156: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 157: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 158: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 159: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 160: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 161: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 162: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 163: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 164: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 165: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 166: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 167: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 168: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 169: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 170: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 171: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 172: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 173: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 174: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 175: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 176: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 177: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 178: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 179: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 180: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 181: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 182: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 183: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 184: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 185: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 186: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 187: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 188: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 189: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 190: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 191: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 192: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 193: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 194: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 195: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 196: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 197: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 198: bount VM not available
-0.1: Broker: Postponing execution of cloudlet 199: bount VM not available
+0.1: Broker: Sending cloudlet 0 to VM #0
+0.1: Broker: Sending cloudlet 1 to VM #1
+0.1: Broker: Sending cloudlet 2 to VM #2
+0.1: Broker: Sending cloudlet 3 to VM #3
+0.1: Broker: Sending cloudlet 4 to VM #4
+0.1: Broker: Sending cloudlet 5 to VM #5
+0.1: Broker: Sending cloudlet 6 to VM #6
+0.1: Broker: Sending cloudlet 7 to VM #7
+0.1: Broker: Sending cloudlet 8 to VM #8
+0.1: Broker: Sending cloudlet 9 to VM #9
+0.1: Broker: Sending cloudlet 10 to VM #10
+0.1: Broker: Sending cloudlet 11 to VM #11
+0.1: Broker: Sending cloudlet 12 to VM #12
+0.1: Broker: Sending cloudlet 13 to VM #13
+0.1: Broker: Sending cloudlet 14 to VM #14
+0.1: Broker: Sending cloudlet 15 to VM #15
+0.1: Broker: Sending cloudlet 16 to VM #16
+0.1: Broker: Sending cloudlet 17 to VM #17
+0.1: Broker: Sending cloudlet 18 to VM #18
+0.1: Broker: Sending cloudlet 19 to VM #19
+0.1: Broker: Sending cloudlet 20 to VM #20
+0.1: Broker: Sending cloudlet 21 to VM #21
+0.1: Broker: Sending cloudlet 22 to VM #22
+0.1: Broker: Sending cloudlet 23 to VM #23
+0.1: Broker: Sending cloudlet 24 to VM #24
+0.1: Broker: Sending cloudlet 25 to VM #25
+0.1: Broker: Sending cloudlet 26 to VM #26
+0.1: Broker: Sending cloudlet 27 to VM #27
+0.1: Broker: Sending cloudlet 28 to VM #28
+0.1: Broker: Sending cloudlet 29 to VM #29
+0.1: Broker: Sending cloudlet 30 to VM #30
+0.1: Broker: Sending cloudlet 31 to VM #31
+0.1: Broker: Sending cloudlet 32 to VM #32
+0.1: Broker: Sending cloudlet 33 to VM #33
+0.1: Broker: Sending cloudlet 34 to VM #34
+0.1: Broker: Sending cloudlet 35 to VM #35
+0.1: Broker: Sending cloudlet 36 to VM #36
+0.1: Broker: Sending cloudlet 37 to VM #37
+0.1: Broker: Sending cloudlet 38 to VM #38
+0.1: Broker: Sending cloudlet 39 to VM #39
+0.1: Broker: Sending cloudlet 40 to VM #40
+0.1: Broker: Sending cloudlet 41 to VM #41
+0.1: Broker: Sending cloudlet 42 to VM #42
+0.1: Broker: Sending cloudlet 43 to VM #43
+0.1: Broker: Sending cloudlet 44 to VM #44
+0.1: Broker: Sending cloudlet 45 to VM #45
+0.1: Broker: Sending cloudlet 46 to VM #46
+0.1: Broker: Sending cloudlet 47 to VM #47
+0.1: Broker: Sending cloudlet 48 to VM #48
+0.1: Broker: Sending cloudlet 49 to VM #49
+0.1: Broker: Sending cloudlet 50 to VM #50
+0.1: Broker: Sending cloudlet 51 to VM #51
+0.1: Broker: Sending cloudlet 52 to VM #52
+0.1: Broker: Sending cloudlet 53 to VM #53
+0.1: Broker: Sending cloudlet 54 to VM #54
+0.1: Broker: Sending cloudlet 55 to VM #55
+0.1: Broker: Sending cloudlet 56 to VM #56
+0.1: Broker: Sending cloudlet 57 to VM #57
+0.1: Broker: Sending cloudlet 58 to VM #58
+0.1: Broker: Sending cloudlet 59 to VM #59
+0.1: Broker: Sending cloudlet 60 to VM #60
+0.1: Broker: Sending cloudlet 61 to VM #61
+0.1: Broker: Sending cloudlet 62 to VM #62
+0.1: Broker: Sending cloudlet 63 to VM #63
+0.1: Broker: Sending cloudlet 64 to VM #64
+0.1: Broker: Sending cloudlet 65 to VM #65
+0.1: Broker: Sending cloudlet 66 to VM #66
+0.1: Broker: Sending cloudlet 67 to VM #67
+0.1: Broker: Sending cloudlet 68 to VM #68
+0.1: Broker: Sending cloudlet 69 to VM #69
+0.1: Broker: Sending cloudlet 70 to VM #70
+0.1: Broker: Sending cloudlet 71 to VM #71
+0.1: Broker: Sending cloudlet 72 to VM #72
+0.1: Broker: Sending cloudlet 73 to VM #73
+0.1: Broker: Sending cloudlet 74 to VM #74
+0.1: Broker: Sending cloudlet 75 to VM #75
+0.1: Broker: Sending cloudlet 76 to VM #76
+0.1: Broker: Sending cloudlet 77 to VM #77
+0.1: Broker: Sending cloudlet 78 to VM #78
+0.1: Broker: Sending cloudlet 79 to VM #79
+0.1: Broker: Sending cloudlet 80 to VM #80
+0.1: Broker: Sending cloudlet 81 to VM #81
+0.1: Broker: Sending cloudlet 82 to VM #82
+0.1: Broker: Sending cloudlet 83 to VM #83
+0.1: Broker: Sending cloudlet 84 to VM #84
+0.1: Broker: Sending cloudlet 85 to VM #85
+0.1: Broker: Sending cloudlet 86 to VM #86
+0.1: Broker: Sending cloudlet 87 to VM #87
+0.1: Broker: Sending cloudlet 88 to VM #88
+0.1: Broker: Sending cloudlet 89 to VM #89
+0.1: Broker: Sending cloudlet 90 to VM #90
+0.1: Broker: Sending cloudlet 91 to VM #91
+0.1: Broker: Sending cloudlet 92 to VM #92
+0.1: Broker: Sending cloudlet 93 to VM #93
+0.1: Broker: Sending cloudlet 94 to VM #94
+0.1: Broker: Sending cloudlet 95 to VM #95
+0.1: Broker: Sending cloudlet 96 to VM #96
+0.1: Broker: Sending cloudlet 97 to VM #97
+0.1: Broker: Sending cloudlet 98 to VM #98
+0.1: Broker: Sending cloudlet 99 to VM #99
+0.1: Broker: Sending cloudlet 100 to VM #100
+0.1: Broker: Sending cloudlet 101 to VM #101
+0.1: Broker: Sending cloudlet 102 to VM #102
+0.1: Broker: Sending cloudlet 103 to VM #103
+0.1: Broker: Sending cloudlet 104 to VM #104
+0.1: Broker: Sending cloudlet 105 to VM #105
+0.1: Broker: Sending cloudlet 106 to VM #106
+0.1: Broker: Sending cloudlet 107 to VM #107
+0.1: Broker: Sending cloudlet 108 to VM #108
+0.1: Broker: Sending cloudlet 109 to VM #109
+0.1: Broker: Sending cloudlet 110 to VM #110
+0.1: Broker: Sending cloudlet 111 to VM #111
+0.1: Broker: Sending cloudlet 112 to VM #112
+0.1: Broker: Sending cloudlet 113 to VM #113
+0.1: Broker: Sending cloudlet 114 to VM #114
+0.1: Broker: Sending cloudlet 115 to VM #115
+0.1: Broker: Sending cloudlet 116 to VM #116
+0.1: Broker: Sending cloudlet 117 to VM #117
+0.1: Broker: Sending cloudlet 118 to VM #118
+0.1: Broker: Sending cloudlet 119 to VM #119
+0.1: Broker: Sending cloudlet 120 to VM #120
+0.1: Broker: Sending cloudlet 121 to VM #121
+0.1: Broker: Sending cloudlet 122 to VM #122
+0.1: Broker: Sending cloudlet 123 to VM #123
+0.1: Broker: Sending cloudlet 124 to VM #124
+0.1: Broker: Sending cloudlet 125 to VM #125
+0.1: Broker: Sending cloudlet 126 to VM #126
+0.1: Broker: Sending cloudlet 127 to VM #127
+0.1: Broker: Sending cloudlet 128 to VM #128
+0.1: Broker: Sending cloudlet 129 to VM #129
+0.1: Broker: Sending cloudlet 130 to VM #130
+0.1: Broker: Sending cloudlet 131 to VM #131
+0.1: Broker: Sending cloudlet 132 to VM #132
+0.1: Broker: Sending cloudlet 133 to VM #133
+0.1: Broker: Sending cloudlet 134 to VM #134
+0.1: Broker: Sending cloudlet 135 to VM #135
+0.1: Broker: Sending cloudlet 136 to VM #136
+0.1: Broker: Sending cloudlet 137 to VM #137
+0.1: Broker: Sending cloudlet 138 to VM #138
+0.1: Broker: Sending cloudlet 139 to VM #139
+0.1: Broker: Sending cloudlet 140 to VM #140
+0.1: Broker: Sending cloudlet 141 to VM #141
+0.1: Broker: Sending cloudlet 142 to VM #142
+0.1: Broker: Sending cloudlet 143 to VM #143
+0.1: Broker: Sending cloudlet 144 to VM #144
+0.1: Broker: Sending cloudlet 145 to VM #145
+0.1: Broker: Sending cloudlet 146 to VM #146
+0.1: Broker: Sending cloudlet 147 to VM #147
+0.1: Broker: Sending cloudlet 148 to VM #148
+0.1: Broker: Sending cloudlet 149 to VM #149
+0.1: Broker: Sending cloudlet 150 to VM #150
+0.1: Broker: Sending cloudlet 151 to VM #151
+0.1: Broker: Sending cloudlet 152 to VM #152
+0.1: Broker: Sending cloudlet 153 to VM #153
+0.1: Broker: Sending cloudlet 154 to VM #154
+0.1: Broker: Sending cloudlet 155 to VM #155
+0.1: Broker: Sending cloudlet 156 to VM #156
+0.1: Broker: Sending cloudlet 157 to VM #157
+0.1: Broker: Sending cloudlet 158 to VM #158
+0.1: Broker: Sending cloudlet 159 to VM #159
+0.1: Broker: Sending cloudlet 160 to VM #160
+0.1: Broker: Sending cloudlet 161 to VM #161
+0.1: Broker: Sending cloudlet 162 to VM #162
+0.1: Broker: Sending cloudlet 163 to VM #163
+0.1: Broker: Sending cloudlet 164 to VM #164
+0.1: Broker: Sending cloudlet 165 to VM #165
+0.1: Broker: Sending cloudlet 166 to VM #166
+0.1: Broker: Sending cloudlet 167 to VM #167
+0.1: Broker: Sending cloudlet 168 to VM #168
+0.1: Broker: Sending cloudlet 169 to VM #169
+0.1: Broker: Sending cloudlet 170 to VM #170
+0.1: Broker: Sending cloudlet 171 to VM #171
+0.1: Broker: Sending cloudlet 172 to VM #172
+0.1: Broker: Sending cloudlet 173 to VM #173
+0.1: Broker: Sending cloudlet 174 to VM #174
+0.1: Broker: Sending cloudlet 175 to VM #175
+0.1: Broker: Sending cloudlet 176 to VM #176
+0.1: Broker: Sending cloudlet 177 to VM #177
+0.1: Broker: Sending cloudlet 178 to VM #178
+0.1: Broker: Sending cloudlet 179 to VM #179
+0.1: Broker: Sending cloudlet 180 to VM #180
+0.1: Broker: Sending cloudlet 181 to VM #181
+0.1: Broker: Sending cloudlet 182 to VM #182
+0.1: Broker: Sending cloudlet 183 to VM #183
+0.1: Broker: Sending cloudlet 184 to VM #184
+0.1: Broker: Sending cloudlet 185 to VM #185
+0.1: Broker: Sending cloudlet 186 to VM #186
+0.1: Broker: Sending cloudlet 187 to VM #187
+0.1: Broker: Sending cloudlet 188 to VM #188
+0.1: Broker: Sending cloudlet 189 to VM #189
+0.1: Broker: Sending cloudlet 190 to VM #190
+0.1: Broker: Sending cloudlet 191 to VM #191
+0.1: Broker: Sending cloudlet 192 to VM #192
+0.1: Broker: Sending cloudlet 193 to VM #193
+0.1: Broker: Sending cloudlet 194 to VM #194
+0.1: Broker: Sending cloudlet 195 to VM #195
+0.1: Broker: Sending cloudlet 196 to VM #196
+0.1: Broker: Sending cloudlet 197 to VM #197
+0.1: Broker: Sending cloudlet 198 to VM #198
+0.1: Broker: Sending cloudlet 199 to VM #199
 0.1: Broker: Postponing execution of cloudlet 200: bount VM not available
 0.1: Broker: Postponing execution of cloudlet 201: bount VM not available
 0.1: Broker: Postponing execution of cloudlet 202: bount VM not available
@@ -1142,6 +884,606 @@
 0.1: Broker: Postponing execution of cloudlet 397: bount VM not available
 0.1: Broker: Postponing execution of cloudlet 398: bount VM not available
 0.1: Broker: Postponing execution of cloudlet 399: bount VM not available
+150.1: Broker: Cloudlet 0 received
+150.1: Broker: Cloudlet 100 received
+150.1: Broker: Cloudlet 1 received
+150.1: Broker: Cloudlet 101 received
+150.1: Broker: Cloudlet 2 received
+150.1: Broker: Cloudlet 102 received
+150.1: Broker: Cloudlet 3 received
+150.1: Broker: Cloudlet 103 received
+150.1: Broker: Cloudlet 4 received
+150.1: Broker: Cloudlet 104 received
+150.1: Broker: Cloudlet 5 received
+150.1: Broker: Cloudlet 105 received
+150.1: Broker: Cloudlet 6 received
+150.1: Broker: Cloudlet 106 received
+150.1: Broker: Cloudlet 7 received
+150.1: Broker: Cloudlet 107 received
+150.1: Broker: Cloudlet 8 received
+150.1: Broker: Cloudlet 108 received
+150.1: Broker: Cloudlet 9 received
+150.1: Broker: Cloudlet 109 received
+150.1: Broker: Cloudlet 10 received
+150.1: Broker: Cloudlet 110 received
+150.1: Broker: Cloudlet 11 received
+150.1: Broker: Cloudlet 111 received
+150.1: Broker: Cloudlet 12 received
+150.1: Broker: Cloudlet 112 received
+150.1: Broker: Cloudlet 13 received
+150.1: Broker: Cloudlet 113 received
+150.1: Broker: Cloudlet 14 received
+150.1: Broker: Cloudlet 114 received
+150.1: Broker: Cloudlet 15 received
+150.1: Broker: Cloudlet 115 received
+150.1: Broker: Cloudlet 16 received
+150.1: Broker: Cloudlet 116 received
+150.1: Broker: Cloudlet 17 received
+150.1: Broker: Cloudlet 117 received
+150.1: Broker: Cloudlet 18 received
+150.1: Broker: Cloudlet 118 received
+150.1: Broker: Cloudlet 19 received
+150.1: Broker: Cloudlet 119 received
+150.1: Broker: Cloudlet 20 received
+150.1: Broker: Cloudlet 120 received
+150.1: Broker: Cloudlet 21 received
+150.1: Broker: Cloudlet 121 received
+150.1: Broker: Cloudlet 22 received
+150.1: Broker: Cloudlet 122 received
+150.1: Broker: Cloudlet 23 received
+150.1: Broker: Cloudlet 123 received
+150.1: Broker: Cloudlet 24 received
+150.1: Broker: Cloudlet 124 received
+150.1: Broker: Cloudlet 25 received
+150.1: Broker: Cloudlet 125 received
+150.1: Broker: Cloudlet 26 received
+150.1: Broker: Cloudlet 126 received
+150.1: Broker: Cloudlet 27 received
+150.1: Broker: Cloudlet 127 received
+150.1: Broker: Cloudlet 28 received
+150.1: Broker: Cloudlet 128 received
+150.1: Broker: Cloudlet 29 received
+150.1: Broker: Cloudlet 129 received
+150.1: Broker: Cloudlet 30 received
+150.1: Broker: Cloudlet 130 received
+150.1: Broker: Cloudlet 31 received
+150.1: Broker: Cloudlet 131 received
+150.1: Broker: Cloudlet 32 received
+150.1: Broker: Cloudlet 132 received
+150.1: Broker: Cloudlet 33 received
+150.1: Broker: Cloudlet 133 received
+150.1: Broker: Cloudlet 34 received
+150.1: Broker: Cloudlet 134 received
+150.1: Broker: Cloudlet 35 received
+150.1: Broker: Cloudlet 135 received
+150.1: Broker: Cloudlet 36 received
+150.1: Broker: Cloudlet 136 received
+150.1: Broker: Cloudlet 37 received
+150.1: Broker: Cloudlet 137 received
+150.1: Broker: Cloudlet 38 received
+150.1: Broker: Cloudlet 138 received
+150.1: Broker: Cloudlet 39 received
+150.1: Broker: Cloudlet 139 received
+150.1: Broker: Cloudlet 40 received
+150.1: Broker: Cloudlet 140 received
+150.1: Broker: Cloudlet 41 received
+150.1: Broker: Cloudlet 141 received
+150.1: Broker: Cloudlet 42 received
+150.1: Broker: Cloudlet 142 received
+150.1: Broker: Cloudlet 43 received
+150.1: Broker: Cloudlet 143 received
+150.1: Broker: Cloudlet 44 received
+150.1: Broker: Cloudlet 144 received
+150.1: Broker: Cloudlet 45 received
+150.1: Broker: Cloudlet 145 received
+150.1: Broker: Cloudlet 46 received
+150.1: Broker: Cloudlet 146 received
+150.1: Broker: Cloudlet 47 received
+150.1: Broker: Cloudlet 147 received
+150.1: Broker: Cloudlet 48 received
+150.1: Broker: Cloudlet 148 received
+150.1: Broker: Cloudlet 49 received
+150.1: Broker: Cloudlet 149 received
+150.1: Broker: Cloudlet 50 received
+150.1: Broker: Cloudlet 150 received
+150.1: Broker: Cloudlet 51 received
+150.1: Broker: Cloudlet 151 received
+150.1: Broker: Cloudlet 52 received
+150.1: Broker: Cloudlet 152 received
+150.1: Broker: Cloudlet 53 received
+150.1: Broker: Cloudlet 153 received
+150.1: Broker: Cloudlet 54 received
+150.1: Broker: Cloudlet 154 received
+150.1: Broker: Cloudlet 55 received
+150.1: Broker: Cloudlet 155 received
+150.1: Broker: Cloudlet 56 received
+150.1: Broker: Cloudlet 156 received
+150.1: Broker: Cloudlet 57 received
+150.1: Broker: Cloudlet 157 received
+150.1: Broker: Cloudlet 58 received
+150.1: Broker: Cloudlet 158 received
+150.1: Broker: Cloudlet 59 received
+150.1: Broker: Cloudlet 159 received
+150.1: Broker: Cloudlet 60 received
+150.1: Broker: Cloudlet 160 received
+150.1: Broker: Cloudlet 61 received
+150.1: Broker: Cloudlet 161 received
+150.1: Broker: Cloudlet 62 received
+150.1: Broker: Cloudlet 162 received
+150.1: Broker: Cloudlet 63 received
+150.1: Broker: Cloudlet 163 received
+150.1: Broker: Cloudlet 64 received
+150.1: Broker: Cloudlet 164 received
+150.1: Broker: Cloudlet 65 received
+150.1: Broker: Cloudlet 165 received
+150.1: Broker: Cloudlet 66 received
+150.1: Broker: Cloudlet 166 received
+150.1: Broker: Cloudlet 67 received
+150.1: Broker: Cloudlet 167 received
+150.1: Broker: Cloudlet 68 received
+150.1: Broker: Cloudlet 168 received
+150.1: Broker: Cloudlet 69 received
+150.1: Broker: Cloudlet 169 received
+150.1: Broker: Cloudlet 70 received
+150.1: Broker: Cloudlet 170 received
+150.1: Broker: Cloudlet 71 received
+150.1: Broker: Cloudlet 171 received
+150.1: Broker: Cloudlet 72 received
+150.1: Broker: Cloudlet 172 received
+150.1: Broker: Cloudlet 73 received
+150.1: Broker: Cloudlet 173 received
+150.1: Broker: Cloudlet 74 received
+150.1: Broker: Cloudlet 174 received
+150.1: Broker: Cloudlet 75 received
+150.1: Broker: Cloudlet 175 received
+150.1: Broker: Cloudlet 76 received
+150.1: Broker: Cloudlet 176 received
+150.1: Broker: Cloudlet 77 received
+150.1: Broker: Cloudlet 177 received
+150.1: Broker: Cloudlet 78 received
+150.1: Broker: Cloudlet 178 received
+150.1: Broker: Cloudlet 79 received
+150.1: Broker: Cloudlet 179 received
+150.1: Broker: Cloudlet 80 received
+150.1: Broker: Cloudlet 180 received
+150.1: Broker: Cloudlet 81 received
+150.1: Broker: Cloudlet 181 received
+150.1: Broker: Cloudlet 82 received
+150.1: Broker: Cloudlet 182 received
+150.1: Broker: Cloudlet 83 received
+150.1: Broker: Cloudlet 183 received
+150.1: Broker: Cloudlet 84 received
+150.1: Broker: Cloudlet 184 received
+150.1: Broker: Cloudlet 85 received
+150.1: Broker: Cloudlet 185 received
+150.1: Broker: Cloudlet 86 received
+150.1: Broker: Cloudlet 186 received
+150.1: Broker: Cloudlet 87 received
+150.1: Broker: Cloudlet 187 received
+150.1: Broker: Cloudlet 88 received
+150.1: Broker: Cloudlet 188 received
+150.1: Broker: Cloudlet 89 received
+150.1: Broker: Cloudlet 189 received
+150.1: Broker: Cloudlet 90 received
+150.1: Broker: Cloudlet 190 received
+150.1: Broker: Cloudlet 91 received
+150.1: Broker: Cloudlet 191 received
+150.1: Broker: Cloudlet 92 received
+150.1: Broker: Cloudlet 192 received
+150.1: Broker: Cloudlet 93 received
+150.1: Broker: Cloudlet 193 received
+150.1: Broker: Cloudlet 94 received
+150.1: Broker: Cloudlet 194 received
+150.1: Broker: Cloudlet 95 received
+150.1: Broker: Cloudlet 195 received
+150.1: Broker: Cloudlet 96 received
+150.1: Broker: Cloudlet 196 received
+150.1: Broker: Cloudlet 97 received
+150.1: Broker: Cloudlet 197 received
+150.1: Broker: Cloudlet 98 received
+150.1: Broker: Cloudlet 198 received
+150.1: Broker: Cloudlet 99 received
+150.1: Broker: Cloudlet 199 received
+150.1: Broker: Destroying VM #0
+150.1: Broker: Destroying VM #1
+150.1: Broker: Destroying VM #2
+150.1: Broker: Destroying VM #3
+150.1: Broker: Destroying VM #4
+150.1: Broker: Destroying VM #5
+150.1: Broker: Destroying VM #6
+150.1: Broker: Destroying VM #7
+150.1: Broker: Destroying VM #8
+150.1: Broker: Destroying VM #9
+150.1: Broker: Destroying VM #10
+150.1: Broker: Destroying VM #11
+150.1: Broker: Destroying VM #12
+150.1: Broker: Destroying VM #13
+150.1: Broker: Destroying VM #14
+150.1: Broker: Destroying VM #15
+150.1: Broker: Destroying VM #16
+150.1: Broker: Destroying VM #17
+150.1: Broker: Destroying VM #18
+150.1: Broker: Destroying VM #19
+150.1: Broker: Destroying VM #20
+150.1: Broker: Destroying VM #21
+150.1: Broker: Destroying VM #22
+150.1: Broker: Destroying VM #23
+150.1: Broker: Destroying VM #24
+150.1: Broker: Destroying VM #25
+150.1: Broker: Destroying VM #26
+150.1: Broker: Destroying VM #27
+150.1: Broker: Destroying VM #28
+150.1: Broker: Destroying VM #29
+150.1: Broker: Destroying VM #30
+150.1: Broker: Destroying VM #31
+150.1: Broker: Destroying VM #32
+150.1: Broker: Destroying VM #33
+150.1: Broker: Destroying VM #34
+150.1: Broker: Destroying VM #35
+150.1: Broker: Destroying VM #36
+150.1: Broker: Destroying VM #37
+150.1: Broker: Destroying VM #38
+150.1: Broker: Destroying VM #39
+150.1: Broker: Destroying VM #40
+150.1: Broker: Destroying VM #41
+150.1: Broker: Destroying VM #42
+150.1: Broker: Destroying VM #43
+150.1: Broker: Destroying VM #44
+150.1: Broker: Destroying VM #45
+150.1: Broker: Destroying VM #46
+150.1: Broker: Destroying VM #47
+150.1: Broker: Destroying VM #48
+150.1: Broker: Destroying VM #49
+150.1: Broker: Destroying VM #50
+150.1: Broker: Destroying VM #51
+150.1: Broker: Destroying VM #52
+150.1: Broker: Destroying VM #53
+150.1: Broker: Destroying VM #54
+150.1: Broker: Destroying VM #55
+150.1: Broker: Destroying VM #56
+150.1: Broker: Destroying VM #57
+150.1: Broker: Destroying VM #58
+150.1: Broker: Destroying VM #59
+150.1: Broker: Destroying VM #60
+150.1: Broker: Destroying VM #61
+150.1: Broker: Destroying VM #62
+150.1: Broker: Destroying VM #63
+150.1: Broker: Destroying VM #64
+150.1: Broker: Destroying VM #65
+150.1: Broker: Destroying VM #66
+150.1: Broker: Destroying VM #67
+150.1: Broker: Destroying VM #68
+150.1: Broker: Destroying VM #69
+150.1: Broker: Destroying VM #70
+150.1: Broker: Destroying VM #71
+150.1: Broker: Destroying VM #72
+150.1: Broker: Destroying VM #73
+150.1: Broker: Destroying VM #74
+150.1: Broker: Destroying VM #75
+150.1: Broker: Destroying VM #76
+150.1: Broker: Destroying VM #77
+150.1: Broker: Destroying VM #78
+150.1: Broker: Destroying VM #79
+150.1: Broker: Destroying VM #80
+150.1: Broker: Destroying VM #81
+150.1: Broker: Destroying VM #82
+150.1: Broker: Destroying VM #83
+150.1: Broker: Destroying VM #84
+150.1: Broker: Destroying VM #85
+150.1: Broker: Destroying VM #86
+150.1: Broker: Destroying VM #87
+150.1: Broker: Destroying VM #88
+150.1: Broker: Destroying VM #89
+150.1: Broker: Destroying VM #90
+150.1: Broker: Destroying VM #91
+150.1: Broker: Destroying VM #92
+150.1: Broker: Destroying VM #93
+150.1: Broker: Destroying VM #94
+150.1: Broker: Destroying VM #95
+150.1: Broker: Destroying VM #96
+150.1: Broker: Destroying VM #97
+150.1: Broker: Destroying VM #98
+150.1: Broker: Destroying VM #99
+150.1: Broker: Destroying VM #100
+150.1: Broker: Destroying VM #101
+150.1: Broker: Destroying VM #102
+150.1: Broker: Destroying VM #103
+150.1: Broker: Destroying VM #104
+150.1: Broker: Destroying VM #105
+150.1: Broker: Destroying VM #106
+150.1: Broker: Destroying VM #107
+150.1: Broker: Destroying VM #108
+150.1: Broker: Destroying VM #109
+150.1: Broker: Destroying VM #110
+150.1: Broker: Destroying VM #111
+150.1: Broker: Destroying VM #112
+150.1: Broker: Destroying VM #113
+150.1: Broker: Destroying VM #114
+150.1: Broker: Destroying VM #115
+150.1: Broker: Destroying VM #116
+150.1: Broker: Destroying VM #117
+150.1: Broker: Destroying VM #118
+150.1: Broker: Destroying VM #119
+150.1: Broker: Destroying VM #120
+150.1: Broker: Destroying VM #121
+150.1: Broker: Destroying VM #122
+150.1: Broker: Destroying VM #123
+150.1: Broker: Destroying VM #124
+150.1: Broker: Destroying VM #125
+150.1: Broker: Destroying VM #126
+150.1: Broker: Destroying VM #127
+150.1: Broker: Destroying VM #128
+150.1: Broker: Destroying VM #129
+150.1: Broker: Destroying VM #130
+150.1: Broker: Destroying VM #131
+150.1: Broker: Destroying VM #132
+150.1: Broker: Destroying VM #133
+150.1: Broker: Destroying VM #134
+150.1: Broker: Destroying VM #135
+150.1: Broker: Destroying VM #136
+150.1: Broker: Destroying VM #137
+150.1: Broker: Destroying VM #138
+150.1: Broker: Destroying VM #139
+150.1: Broker: Destroying VM #140
+150.1: Broker: Destroying VM #141
+150.1: Broker: Destroying VM #142
+150.1: Broker: Destroying VM #143
+150.1: Broker: Destroying VM #144
+150.1: Broker: Destroying VM #145
+150.1: Broker: Destroying VM #146
+150.1: Broker: Destroying VM #147
+150.1: Broker: Destroying VM #148
+150.1: Broker: Destroying VM #149
+150.1: Broker: Destroying VM #150
+150.1: Broker: Destroying VM #151
+150.1: Broker: Destroying VM #152
+150.1: Broker: Destroying VM #153
+150.1: Broker: Destroying VM #154
+150.1: Broker: Destroying VM #155
+150.1: Broker: Destroying VM #156
+150.1: Broker: Destroying VM #157
+150.1: Broker: Destroying VM #158
+150.1: Broker: Destroying VM #159
+150.1: Broker: Destroying VM #160
+150.1: Broker: Destroying VM #161
+150.1: Broker: Destroying VM #162
+150.1: Broker: Destroying VM #163
+150.1: Broker: Destroying VM #164
+150.1: Broker: Destroying VM #165
+150.1: Broker: Destroying VM #166
+150.1: Broker: Destroying VM #167
+150.1: Broker: Destroying VM #168
+150.1: Broker: Destroying VM #169
+150.1: Broker: Destroying VM #170
+150.1: Broker: Destroying VM #171
+150.1: Broker: Destroying VM #172
+150.1: Broker: Destroying VM #173
+150.1: Broker: Destroying VM #174
+150.1: Broker: Destroying VM #175
+150.1: Broker: Destroying VM #176
+150.1: Broker: Destroying VM #177
+150.1: Broker: Destroying VM #178
+150.1: Broker: Destroying VM #179
+150.1: Broker: Destroying VM #180
+150.1: Broker: Destroying VM #181
+150.1: Broker: Destroying VM #182
+150.1: Broker: Destroying VM #183
+150.1: Broker: Destroying VM #184
+150.1: Broker: Destroying VM #185
+150.1: Broker: Destroying VM #186
+150.1: Broker: Destroying VM #187
+150.1: Broker: Destroying VM #188
+150.1: Broker: Destroying VM #189
+150.1: Broker: Destroying VM #190
+150.1: Broker: Destroying VM #191
+150.1: Broker: Destroying VM #192
+150.1: Broker: Destroying VM #193
+150.1: Broker: Destroying VM #194
+150.1: Broker: Destroying VM #195
+150.1: Broker: Destroying VM #196
+150.1: Broker: Destroying VM #197
+150.1: Broker: Destroying VM #198
+150.1: Broker: Destroying VM #199
+150.1: Broker: Trying to Create VM #200 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #201 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #202 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #203 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #204 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #205 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #206 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #207 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #208 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #209 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #210 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #211 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #212 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #213 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #214 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #215 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #216 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #217 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #218 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #219 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #220 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #221 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #222 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #223 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #224 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #225 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #226 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #227 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #228 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #229 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #230 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #231 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #232 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #233 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #234 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #235 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #236 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #237 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #238 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #239 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #240 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #241 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #242 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #243 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #244 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #245 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #246 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #247 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #248 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #249 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #250 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #251 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #252 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #253 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #254 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #255 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #256 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #257 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #258 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #259 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #260 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #261 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #262 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #263 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #264 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #265 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #266 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #267 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #268 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #269 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #270 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #271 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #272 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #273 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #274 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #275 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #276 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #277 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #278 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #279 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #280 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #281 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #282 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #283 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #284 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #285 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #286 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #287 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #288 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #289 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #290 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #291 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #292 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #293 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #294 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #295 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #296 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #297 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #298 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #299 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #300 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #301 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #302 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #303 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #304 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #305 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #306 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #307 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #308 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #309 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #310 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #311 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #312 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #313 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #314 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #315 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #316 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #317 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #318 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #319 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #320 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #321 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #322 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #323 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #324 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #325 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #326 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #327 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #328 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #329 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #330 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #331 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #332 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #333 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #334 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #335 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #336 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #337 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #338 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #339 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #340 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #341 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #342 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #343 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #344 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #345 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #346 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #347 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #348 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #349 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #350 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #351 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #352 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #353 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #354 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #355 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #356 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #357 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #358 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #359 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #360 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #361 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #362 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #363 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #364 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #365 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #366 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #367 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #368 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #369 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #370 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #371 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #372 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #373 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #374 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #375 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #376 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #377 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #378 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #379 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #380 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #381 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #382 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #383 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #384 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #385 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #386 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #387 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #388 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #389 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #390 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #391 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #392 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #393 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #394 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #395 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #396 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #397 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #398 in CloudSimShutdown
+150.1: Broker: Trying to Create VM #399 in CloudSimShutdown
 Simulation: No more future events
 CloudInformationService: Notify all CloudSim entities for shutting down.
 Datacenter_0 is shutting down...
@@ -1151,4 +1493,204 @@ Simulation completed.
 
 ========== OUTPUT ==========
 Cloudlet ID    STATUS    Data center ID    VM ID    Time    Start Time    Finish Time
+    0        SUCCESS        2            0        150        0.1        150.1
+    100        SUCCESS        2            100        150        0.1        150.1
+    1        SUCCESS        2            1        150        0.1        150.1
+    101        SUCCESS        2            101        150        0.1        150.1
+    2        SUCCESS        2            2        150        0.1        150.1
+    102        SUCCESS        2            102        150        0.1        150.1
+    3        SUCCESS        2            3        150        0.1        150.1
+    103        SUCCESS        2            103        150        0.1        150.1
+    4        SUCCESS        2            4        150        0.1        150.1
+    104        SUCCESS        2            104        150        0.1        150.1
+    5        SUCCESS        2            5        150        0.1        150.1
+    105        SUCCESS        2            105        150        0.1        150.1
+    6        SUCCESS        2            6        150        0.1        150.1
+    106        SUCCESS        2            106        150        0.1        150.1
+    7        SUCCESS        2            7        150        0.1        150.1
+    107        SUCCESS        2            107        150        0.1        150.1
+    8        SUCCESS        2            8        150        0.1        150.1
+    108        SUCCESS        2            108        150        0.1        150.1
+    9        SUCCESS        2            9        150        0.1        150.1
+    109        SUCCESS        2            109        150        0.1        150.1
+    10        SUCCESS        2            10        150        0.1        150.1
+    110        SUCCESS        2            110        150        0.1        150.1
+    11        SUCCESS        2            11        150        0.1        150.1
+    111        SUCCESS        2            111        150        0.1        150.1
+    12        SUCCESS        2            12        150        0.1        150.1
+    112        SUCCESS        2            112        150        0.1        150.1
+    13        SUCCESS        2            13        150        0.1        150.1
+    113        SUCCESS        2            113        150        0.1        150.1
+    14        SUCCESS        2            14        150        0.1        150.1
+    114        SUCCESS        2            114        150        0.1        150.1
+    15        SUCCESS        2            15        150        0.1        150.1
+    115        SUCCESS        2            115        150        0.1        150.1
+    16        SUCCESS        2            16        150        0.1        150.1
+    116        SUCCESS        2            116        150        0.1        150.1
+    17        SUCCESS        2            17        150        0.1        150.1
+    117        SUCCESS        2            117        150        0.1        150.1
+    18        SUCCESS        2            18        150        0.1        150.1
+    118        SUCCESS        2            118        150        0.1        150.1
+    19        SUCCESS        2            19        150        0.1        150.1
+    119        SUCCESS        2            119        150        0.1        150.1
+    20        SUCCESS        2            20        150        0.1        150.1
+    120        SUCCESS        2            120        150        0.1        150.1
+    21        SUCCESS        2            21        150        0.1        150.1
+    121        SUCCESS        2            121        150        0.1        150.1
+    22        SUCCESS        2            22        150        0.1        150.1
+    122        SUCCESS        2            122        150        0.1        150.1
+    23        SUCCESS        2            23        150        0.1        150.1
+    123        SUCCESS        2            123        150        0.1        150.1
+    24        SUCCESS        2            24        150        0.1        150.1
+    124        SUCCESS        2            124        150        0.1        150.1
+    25        SUCCESS        2            25        150        0.1        150.1
+    125        SUCCESS        2            125        150        0.1        150.1
+    26        SUCCESS        2            26        150        0.1        150.1
+    126        SUCCESS        2            126        150        0.1        150.1
+    27        SUCCESS        2            27        150        0.1        150.1
+    127        SUCCESS        2            127        150        0.1        150.1
+    28        SUCCESS        2            28        150        0.1        150.1
+    128        SUCCESS        2            128        150        0.1        150.1
+    29        SUCCESS        2            29        150        0.1        150.1
+    129        SUCCESS        2            129        150        0.1        150.1
+    30        SUCCESS        2            30        150        0.1        150.1
+    130        SUCCESS        2            130        150        0.1        150.1
+    31        SUCCESS        2            31        150        0.1        150.1
+    131        SUCCESS        2            131        150        0.1        150.1
+    32        SUCCESS        2            32        150        0.1        150.1
+    132        SUCCESS        2            132        150        0.1        150.1
+    33        SUCCESS        2            33        150        0.1        150.1
+    133        SUCCESS        2            133        150        0.1        150.1
+    34        SUCCESS        2            34        150        0.1        150.1
+    134        SUCCESS        2            134        150        0.1        150.1
+    35        SUCCESS        2            35        150        0.1        150.1
+    135        SUCCESS        2            135        150        0.1        150.1
+    36        SUCCESS        2            36        150        0.1        150.1
+    136        SUCCESS        2            136        150        0.1        150.1
+    37        SUCCESS        2            37        150        0.1        150.1
+    137        SUCCESS        2            137        150        0.1        150.1
+    38        SUCCESS        2            38        150        0.1        150.1
+    138        SUCCESS        2            138        150        0.1        150.1
+    39        SUCCESS        2            39        150        0.1        150.1
+    139        SUCCESS        2            139        150        0.1        150.1
+    40        SUCCESS        2            40        150        0.1        150.1
+    140        SUCCESS        2            140        150        0.1        150.1
+    41        SUCCESS        2            41        150        0.1        150.1
+    141        SUCCESS        2            141        150        0.1        150.1
+    42        SUCCESS        2            42        150        0.1        150.1
+    142        SUCCESS        2            142        150        0.1        150.1
+    43        SUCCESS        2            43        150        0.1        150.1
+    143        SUCCESS        2            143        150        0.1        150.1
+    44        SUCCESS        2            44        150        0.1        150.1
+    144        SUCCESS        2            144        150        0.1        150.1
+    45        SUCCESS        2            45        150        0.1        150.1
+    145        SUCCESS        2            145        150        0.1        150.1
+    46        SUCCESS        2            46        150        0.1        150.1
+    146        SUCCESS        2            146        150        0.1        150.1
+    47        SUCCESS        2            47        150        0.1        150.1
+    147        SUCCESS        2            147        150        0.1        150.1
+    48        SUCCESS        2            48        150        0.1        150.1
+    148        SUCCESS        2            148        150        0.1        150.1
+    49        SUCCESS        2            49        150        0.1        150.1
+    149        SUCCESS        2            149        150        0.1        150.1
+    50        SUCCESS        2            50        150        0.1        150.1
+    150        SUCCESS        2            150        150        0.1        150.1
+    51        SUCCESS        2            51        150        0.1        150.1
+    151        SUCCESS        2            151        150        0.1        150.1
+    52        SUCCESS        2            52        150        0.1        150.1
+    152        SUCCESS        2            152        150        0.1        150.1
+    53        SUCCESS        2            53        150        0.1        150.1
+    153        SUCCESS        2            153        150        0.1        150.1
+    54        SUCCESS        2            54        150        0.1        150.1
+    154        SUCCESS        2            154        150        0.1        150.1
+    55        SUCCESS        2            55        150        0.1        150.1
+    155        SUCCESS        2            155        150        0.1        150.1
+    56        SUCCESS        2            56        150        0.1        150.1
+    156        SUCCESS        2            156        150        0.1        150.1
+    57        SUCCESS        2            57        150        0.1        150.1
+    157        SUCCESS        2            157        150        0.1        150.1
+    58        SUCCESS        2            58        150        0.1        150.1
+    158        SUCCESS        2            158        150        0.1        150.1
+    59        SUCCESS        2            59        150        0.1        150.1
+    159        SUCCESS        2            159        150        0.1        150.1
+    60        SUCCESS        2            60        150        0.1        150.1
+    160        SUCCESS        2            160        150        0.1        150.1
+    61        SUCCESS        2            61        150        0.1        150.1
+    161        SUCCESS        2            161        150        0.1        150.1
+    62        SUCCESS        2            62        150        0.1        150.1
+    162        SUCCESS        2            162        150        0.1        150.1
+    63        SUCCESS        2            63        150        0.1        150.1
+    163        SUCCESS        2            163        150        0.1        150.1
+    64        SUCCESS        2            64        150        0.1        150.1
+    164        SUCCESS        2            164        150        0.1        150.1
+    65        SUCCESS        2            65        150        0.1        150.1
+    165        SUCCESS        2            165        150        0.1        150.1
+    66        SUCCESS        2            66        150        0.1        150.1
+    166        SUCCESS        2            166        150        0.1        150.1
+    67        SUCCESS        2            67        150        0.1        150.1
+    167        SUCCESS        2            167        150        0.1        150.1
+    68        SUCCESS        2            68        150        0.1        150.1
+    168        SUCCESS        2            168        150        0.1        150.1
+    69        SUCCESS        2            69        150        0.1        150.1
+    169        SUCCESS        2            169        150        0.1        150.1
+    70        SUCCESS        2            70        150        0.1        150.1
+    170        SUCCESS        2            170        150        0.1        150.1
+    71        SUCCESS        2            71        150        0.1        150.1
+    171        SUCCESS        2            171        150        0.1        150.1
+    72        SUCCESS        2            72        150        0.1        150.1
+    172        SUCCESS        2            172        150        0.1        150.1
+    73        SUCCESS        2            73        150        0.1        150.1
+    173        SUCCESS        2            173        150        0.1        150.1
+    74        SUCCESS        2            74        150        0.1        150.1
+    174        SUCCESS        2            174        150        0.1        150.1
+    75        SUCCESS        2            75        150        0.1        150.1
+    175        SUCCESS        2            175        150        0.1        150.1
+    76        SUCCESS        2            76        150        0.1        150.1
+    176        SUCCESS        2            176        150        0.1        150.1
+    77        SUCCESS        2            77        150        0.1        150.1
+    177        SUCCESS        2            177        150        0.1        150.1
+    78        SUCCESS        2            78        150        0.1        150.1
+    178        SUCCESS        2            178        150        0.1        150.1
+    79        SUCCESS        2            79        150        0.1        150.1
+    179        SUCCESS        2            179        150        0.1        150.1
+    80        SUCCESS        2            80        150        0.1        150.1
+    180        SUCCESS        2            180        150        0.1        150.1
+    81        SUCCESS        2            81        150        0.1        150.1
+    181        SUCCESS        2            181        150        0.1        150.1
+    82        SUCCESS        2            82        150        0.1        150.1
+    182        SUCCESS        2            182        150        0.1        150.1
+    83        SUCCESS        2            83        150        0.1        150.1
+    183        SUCCESS        2            183        150        0.1        150.1
+    84        SUCCESS        2            84        150        0.1        150.1
+    184        SUCCESS        2            184        150        0.1        150.1
+    85        SUCCESS        2            85        150        0.1        150.1
+    185        SUCCESS        2            185        150        0.1        150.1
+    86        SUCCESS        2            86        150        0.1        150.1
+    186        SUCCESS        2            186        150        0.1        150.1
+    87        SUCCESS        2            87        150        0.1        150.1
+    187        SUCCESS        2            187        150        0.1        150.1
+    88        SUCCESS        2            88        150        0.1        150.1
+    188        SUCCESS        2            188        150        0.1        150.1
+    89        SUCCESS        2            89        150        0.1        150.1
+    189        SUCCESS        2            189        150        0.1        150.1
+    90        SUCCESS        2            90        150        0.1        150.1
+    190        SUCCESS        2            190        150        0.1        150.1
+    91        SUCCESS        2            91        150        0.1        150.1
+    191        SUCCESS        2            191        150        0.1        150.1
+    92        SUCCESS        2            92        150        0.1        150.1
+    192        SUCCESS        2            192        150        0.1        150.1
+    93        SUCCESS        2            93        150        0.1        150.1
+    193        SUCCESS        2            193        150        0.1        150.1
+    94        SUCCESS        2            94        150        0.1        150.1
+    194        SUCCESS        2            194        150        0.1        150.1
+    95        SUCCESS        2            95        150        0.1        150.1
+    195        SUCCESS        2            195        150        0.1        150.1
+    96        SUCCESS        2            96        150        0.1        150.1
+    196        SUCCESS        2            196        150        0.1        150.1
+    97        SUCCESS        2            97        150        0.1        150.1
+    197        SUCCESS        2            197        150        0.1        150.1
+    98        SUCCESS        2            98        150        0.1        150.1
+    198        SUCCESS        2            198        150        0.1        150.1
+    99        SUCCESS        2            99        150        0.1        150.1
+    199        SUCCESS        2            199        150        0.1        150.1
 Problem 3 not completely finished....	
