@@ -1,20 +1,74 @@
-/*
-very important!
-change the sendNow function in broker class to the following:
-
-send(getVmsToDatacentersMap().get(vm.getId()),cloudlet.getExecStartTime(), CloudSimTags.CLOUDLET_SUBMIT, cloudlet);
-
-*/
-
-
-package org.cloudbus.cloudsim.examples;
+package problems;
 
 import java.text.DecimalFormat;
 import java.util.*;
 
 import org.cloudbus.cloudsim.*;
 import org.cloudbus.cloudsim.core.*;
+import org.cloudbus.cloudsim.lists.VmList;
 import org.cloudbus.cloudsim.provisioners.*;
+
+class CustomBroker extends DatacenterBroker {
+	
+	public CustomBroker(String name) throws Exception {
+			
+			super(name);
+		}
+
+	public void submitCloudlets() {
+		int vmIndex = 0;
+		for (Cloudlet cloudlet : getCloudletList()) {
+			Vm vm;
+			
+			// if user didn't bind this cloudlet and it has not been executed yet
+			if (cloudlet.getVmId() == -1) {
+				vm = getVmsCreatedList().get(vmIndex);
+			} else { // submit to the specific vm
+				vm = VmList.getById(getVmsCreatedList(), cloudlet.getVmId());
+				if (vm == null) { // vm was not created
+					Log.printLine(CloudSim.clock() + ": " + getName() + ": Postponing execution of cloudlet "
+							+ cloudlet.getCloudletId() + ": bount VM not available");
+					continue;
+				}
+			}
+
+			Log.printLine(CloudSim.clock() + ": " + getName() + ": Sending cloudlet "
+					+ cloudlet.getCloudletId() + " to VM #" + vm.getId());
+			cloudlet.setVmId(vm.getId());
+			
+			cloudlet.setResourceParameter(0, 0.0);
+			
+			if(cloudlet.getCloudletId()<50)
+				cloudlet.setSubmissionTime(0.0);
+		
+			if(cloudlet.getCloudletId()>=50 && cloudlet.getCloudletId()<100)
+				cloudlet.setSubmissionTime(10000.0);
+		
+			if(cloudlet.getCloudletId()>=100 && cloudlet.getCloudletId()<150)
+				cloudlet.setSubmissionTime(20000.0);
+		
+			if(cloudlet.getCloudletId()>=150 && cloudlet.getCloudletId()<200)
+				cloudlet.setSubmissionTime(30000.0);
+		
+			if(cloudlet.getCloudletId()>=200 && cloudlet.getCloudletId()<250)
+				cloudlet.setSubmissionTime(40000.0);
+		
+			if(cloudlet.getCloudletId()>=250)
+				cloudlet.setSubmissionTime(50000.0);
+			
+			send(getVmsToDatacentersMap().get(vm.getId()), cloudlet.getSubmissionTime(),CloudSimTags.CLOUDLET_SUBMIT, cloudlet);
+			cloudletsSubmitted++;
+			vmIndex = (vmIndex + 1) % getVmsCreatedList().size();
+			getCloudletSubmittedList().add(cloudlet);
+		}
+
+		// remove submitted cloudlets from waiting list
+		for (Cloudlet cloudlet : getCloudletSubmittedList()) {
+			getCloudletList().remove(cloudlet);
+		}
+	}
+
+}
 
 public class Problem4 {
 
@@ -58,20 +112,20 @@ public class Problem4 {
 
 			// VM description
 			int vmid = 0;
-			int mips = 1000;
-			long size = 10000; // image size (MB)
+			int mips = 1200;
+			long size = 1000; // image size (MB)
 			int ram = 1024; // vm memory (MB)
 			long bw = 1000;
 			int pesNumber = 1; // number of cpus
-			String vmm = "Xen"; // VMM name
+			String vmm = "GenericVM"; // VMM name
 
-			//setup 400 vms
+			//setup 50 vms
 			while(vmid<50){
-			// create VM
-			Vm vm = new Vm(vmid, brokerId, mips, pesNumber, ram, bw, size, vmm, new CloudletSchedulerTimeShared()); //This implements Time sharing
-			// add the VMs to the vmList
-			vmlist.add(vm);
-			vmid++;
+				// create VM
+				Vm vm = new Vm(vmid, brokerId, mips, pesNumber, ram, bw, size, vmm, new CloudletSchedulerTimeShared()); //This implements Time sharing
+				// add the VMs to the vmList
+				vmlist.add(vm);
+				vmid++;
 			}
 			
 
@@ -91,22 +145,11 @@ public class Problem4 {
 			int j=0;
 			for(int i = 0; i < 300; i++ ) {			
 			
-			Cloudlet cloudlet = new Cloudlet(i, length, pesNumber, fileSize, outputSize, utilizationModel, utilizationModel, utilizationModel);
-			cloudlet.setUserId(brokerId);
-			cloudlet.setVmId(j);
-			if(i<50)
-				cloudlet.setExecStartTime(0);
-			if(i>50 && i<100)
-				cloudlet.setExecStartTime(1000);
-			if(i>100 && i<150)
-				cloudlet.setExecStartTime(2000);
-			if(i>150 && i<200)
-				cloudlet.setExecStartTime(3000);
-			if(i>200 && i<250)
-				cloudlet.setExecStartTime(4000);
-			if(i>250)
-				cloudlet.setExecStartTime(5000);
-			j=(j+1)%50;	
+				Cloudlet cloudlet = new Cloudlet(i, length, pesNumber, fileSize, outputSize, utilizationModel, utilizationModel, utilizationModel);
+				cloudlet.setUserId(brokerId);
+				cloudlet.setVmId(j);
+				
+				j=(j+1)%50;	
 			// add the cloudlet to the list
 			cloudletlist.add(cloudlet);
 			
@@ -114,27 +157,7 @@ public class Problem4 {
 			
 			// submit cloudlet list to the broker
 			broker.submitCloudletList(cloudletlist);
-			/*
-			for(int i = 50; i < 100; i++ ) {			
 			
-			Cloudlet cloudlet = new Cloudlet(i, length, pesNumber, fileSize, outputSize, utilizationModel, utilizationModel, utilizationModel);
-			cloudlet.setUserId(brokerId);
-			cloudlet.setVmId(j);
-			cloudlet.setSubmissionTime(200);
-			j=(j+1)%50;	
-			// add the cloudlet to the list
-			cloudletlist.add(cloudlet);
-			
-			}
-			
-			// submit cloudlet list to the broker
-			broker.submitCloudletList(cloudletlist);
-			for( int i = 0; i < 300; i++ ) {
-				 
-					broker.bindCloudletToVm(i,i);
-			}
-		
-			*/
 			// Sixth step: Starts the simulation
 			CloudSim.startSimulation();
 
@@ -173,27 +196,27 @@ public class Problem4 {
 
 		// 3. Create PEs and add these into a list.
 		peList.add(new Pe(0, new PeProvisionerSimple(mips))); // need to store Pe id and MIPS Rating
-		peList.add(new Pe(1, new PeProvisionerSimple(mips))); //second PE
 		
 		// 4. Create Host with its id and list of PEs and add them to the list
 		// of machines
 		int hostId = 0;
-		int ram = 2048*2; // host memory (MB)
+		int ram = 4096; // host memory (MB)
 		long storage = 2000000; // host storage
 		int bw = 10000;
 		
-		//set up 100 hosts 
+		//set up 10000 hosts 
 		while(hostId<10000){
-		hostList.add(
-			new Host(
-				hostId++,
-				new RamProvisionerSimple(ram),
-				new BwProvisionerSimple(bw),
-				storage,
-				peList,
-				new VmSchedulerSpaceShared(peList)
-			)
-		); // This is our machine
+		
+			hostList.add(
+					new Host(
+							hostId++,
+							new RamProvisionerSimple(ram),
+							new BwProvisionerSimple(bw),
+							storage,
+							peList,
+							new VmSchedulerSpaceShared(peList)
+							)
+					); // This is our machine
 		
 		}
 
@@ -228,25 +251,29 @@ public class Problem4 {
 		return datacenter;
 	}
 
-	// We strongly encourage users to develop their own broker policies, to
-	// submit vms and cloudlets according
-	// to the specific rules of the simulated scenario
-	/**
-	 * Creates the broker.
-	 *
-	 * @return the datacenter broker
-	 */
-	private static DatacenterBroker createBroker() {
-		DatacenterBroker broker = null;
+	//Create a custom Broker
+	
+	private static CustomBroker createBroker() {
+		
+		CustomBroker broker = null;
+		
 		try {
-			broker = new DatacenterBroker("Broker");
-		} catch (Exception e) {
+			broker = new CustomBroker("Broker");
+		}
+		
+		catch (Exception e) {
 			e.printStackTrace();
 			return null;
 		}
 		return broker;
 	}
-
+	
+	
+	
+	
+	
+	
+	
 	/**
 	 * Prints the Cloudlet objects.
 	 *
@@ -281,5 +308,4 @@ public class Problem4 {
 			}
 		}
 	}
-
 }
