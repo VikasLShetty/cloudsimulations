@@ -1,9 +1,13 @@
+package problems;
+
 import java.text.DecimalFormat;
 import java.util.*;
 
 import org.cloudbus.cloudsim.*;
+import org.cloudbus.cloudsim.core.*;
+import org.cloudbus.cloudsim.provisioners.*;
 
-public class CloudSimExample1 {
+public class Problem2 {
 
 	/** The cloudlet list. */
 	private static List<Cloudlet> cloudletList;
@@ -135,7 +139,7 @@ public class CloudSimExample1 {
 		// In this example, it will have only one core.
 		List<Pe> peList = new ArrayList<Pe>();
 
-		int mips = 1000;
+		int mips = 2000;
 
 		// 3. Create PEs and add these into a list.
 		peList.add(new Pe(0, new PeProvisionerSimple(mips))); // need to store Pe id and MIPS Rating
